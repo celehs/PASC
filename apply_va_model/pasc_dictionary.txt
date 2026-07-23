@@ -1,0 +1,5476 @@
+achs|AB0001449
+aki|AB0002086
+blow|AB0004170
+bppv|AB0004401
+cat|AB0005063
+cf|AB0005701
+ckd|AB0006116
+cold|AB0006563
+copd|AB0006602
+csme|AB0007034
+cva|AB0007370
+cvd|AB0007377
+cvs|AB0007393
+dm|AB0008523
+doe|AB0008696
+dry|AB0008947
+dts|AB0009055
+dx|AB0009156
+ecg|AB0009452
+ekgs|AB0009812
+fits|AB0011195
+ha|AB0013458
+hc|AB0013706
+hr|AB0014776
+htn|AB0014980
+itch|AB0016229
+iv|AB0016278
+ldh|AB0017692
+mab|AB0018717
+mask|AB0018858
+mass|AB0018862
+mci|AB0019023
+o 2|AB0022242
+pant|AB0023379
+pcl|AB0023606
+pe|AB0023778
+peel|AB0023814
+pnd|AB0024655
+pred|AB0025021
+ra|AB0025834
+rash|AB0025942
+rls|AB0026493
+rule|AB0027013
+sad|AB0027230
+sars|AB0027306
+scd|AB0027420
+scds|AB0027425
+shot|AB0027874
+sing|AB0027965
+snhl|AB0028309
+sob|AB0028363
+sore|AB0028414
+ss|AB0028711
+tmj|AB0030308
+tw|AB0030993
+change in abdominal size/distension|C0000731
+abdomen distention|C0000731
+abdominal swelling, nos|C0000731
+abdomen distension|C0000731
+abdominal swelling|C0000731
+bloating|C0000731
+swelling of the abdomen|C0000731
+abdominal distension|C0000731
+swelling of abdomen|C0000731
+swelling abd|C0000731
+swelling abdomen|C0000731
+swollen abdomen|C0000731
+abdomen distended|C0000731
+belly bloating|C0000731
+abdominal swellings|C0000731
+abdominal distention|C0000731
+abdomen swelling|C0000731
+distended abdomen|C0000731
+abdominal bloating|C0000731
+anomaly anomaly congen|C0000768
+congenital malformation, unspecified|C0000768
+developmental disturbance|C0000768
+congenital malformations|C0000768
+anomaly congenital|C0000768
+developmental abnormality|C0000768
+malformations|C0000768
+birth defect|C0000768
+anomaly|C0000768
+developmental malformations|C0000768
+congenital malformation, nos|C0000768
+abnormal development|C0000768
+malformation|C0000768
+malformation, nos|C0000768
+abnormality, congenital|C0000768
+birth defects|C0000768
+foetal developmental abnormality|C0000768
+abnormality|C0000768
+abnormal development, nos|C0000768
+anomalous formation, nos|C0000768
+scong|C0000768
+deformities|C0000768
+developmental malformation|C0000768
+defects, congenital|C0000768
+abnormalities|C0000768
+foetal malformation|C0000768
+fetal malformation|C0000768
+congenital malformation|C0000768
+dysmorphism|C0000768
+abnormalities, congenital|C0000768
+dysmorphisms|C0000768
+developmental malformation, nos|C0000768
+congenital deformity, nos|C0000768
+developmental anomaly|C0000768
+cm - congenital malformation|C0000768
+congenital defect|C0000768
+fetal developmental abnormality|C0000768
+congenital defects|C0000768
+defect/deformity, congenital|C0000768
+developmental anomaly, nos|C0000768
+congenital anomalies|C0000768
+congenital anomaly nos|C0000768
+congenital defect/deformity|C0000768
+fetal anomaly|C0000768
+congenital deformity nos|C0000768
+congenital anatomic abnormality|C0000768
+defect, congenital|C0000768
+dysgenesis, nos|C0000768
+congenital anomaly|C0000768
+deformity|C0000768
+dysgenesis|C0000768
+congenital anomaly, nos|C0000768
+congenital defect, nos|C0000768
+congenital anatomical abnormality|C0000768
+congenital anomaly or birth defect|C0000768
+developmental defect|C0000768
+congenital abnormality nos|C0000768
+congenital abnormality|C0000768
+defect, birth|C0000768
+congenital deformity|C0000768
+congenital abnormalities|C0000768
+developmental defect, nos|C0000768
+congenital anomalies of fetus|C0000768
+congenital abnormality, nos|C0000768
+congenital anomaly, unspecified|C0000768
+n-acetyl-p-aminophenol|C0000970
+4-hydroxyacetanilide|C0000970
+acetominophen|C0000970
+analgesics acetaminophen|C0000970
+paracetamol - chemical|C0000970
+paracetamol-containing product|C0000970
+paracetamol|C0000970
+acetaminophen-containing product|C0000970
+paracetamolum|C0000970
+p-hydroxy-acetanilid|C0000970
+4'-hydroxyacetanilide|C0000970
+p-acetamidophenol|C0000970
+acetaminophen|C0000970
+paracetamol product|C0000970
+paractamol|C0000970
+4-acetamidophenol|C0000970
+acetaminofn|C0000970
+hydroxyacetanilide|C0000970
+acenol|C0000970
+p-acetaminophenol|C0000970
+p-acetylaminophenol|C0000970
+p-hydroxyacetanilide|C0000970
+acetamidophenol|C0000970
+adjustment disorder|C0001546
+adjustment disorders|C0001546
+adjustment disorder, nos|C0001546
+brief situational non-psychotic disorder, nos|C0001546
+adjustment disorders, unspecified|C0001546
+disorders, reactive|C0001546
+disorder, adjustment|C0001546
+adjustment disorder nos|C0001546
+adjustment disorder, unspecified|C0001546
+brief situational non-psychotic disorder|C0001546
+disorders, adjustment|C0001546
+disorder, reactive|C0001546
+reactive disorders|C0001546
+reactive disorder|C0001546
+corticoid preparation, nos|C0001617
+adrenal cortex hormone-containing product|C0001617
+anacal suppository|C0001617
+adrenal cortex hormone|C0001617
+cortex hormone, adrenal|C0001617
+corticoid|C0001617
+adrenocorticosteroids|C0001617
+adrenal cortex|C0001617
+adrenal cortical hormone|C0001617
+adrenal cortex hormones|C0001617
+adrenal corticosteroid|C0001617
+adrenal cortical hormone, nos|C0001617
+adrenal corticosteriods|C0001617
+adrenal cortex steroids|C0001617
+therapeutic corticosteroid|C0001617
+hormones, adrenal cortex|C0001617
+adrenal corticosteroids|C0001617
+corticoids|C0001617
+adrenal cortical hormone-containing product|C0001617
+corticosteroid|C0001617
+corticosteroids|C0001617
+hormone, adrenal cortex|C0001617
+corticosteroid and corticosteroid derivative-containing product|C0001617
+alcohol, denatured|C0001962
+alcohol denatured|C0001962
+ethanol|C0001962
+alcohol,ethyl|C0001962
+thylalkohol|C0001962
+ethanol-containing product|C0001962
+alcohol etlico|C0001962
+alcool thylique|C0001962
+drinking alcohol|C0001962
+etoh - ethanol|C0001962
+ethyl alcohol|C0001962
+alcohol, ethyl|C0001962
+alkohol|C0001962
+alcohol ethyl|C0001962
+methylcarbinol|C0001962
+thanol|C0001962
+hydroxyethane|C0001962
+etanol|C0001962
+dehydrated ethanol|C0001962
+spiritus vini|C0001962
+etoh - alcohol|C0001962
+1-hydroxyethane|C0001962
+absolute ethanol|C0001962
+alcohol anhydrous|C0001962
+alcohol, grain|C0001962
+ethanols|C0001962
+alcohol|C0001962
+grain alcohol|C0001962
+memory loss|C0002622
+amnesias|C0002622
+amnesia, nos|C0002622
+amnesia-memory losses|C0002622
+dysmnesia|C0002622
+amnesia-memory loss|C0002622
+amnesia memory loss|C0002622
+memory loss - amnesia|C0002622
+loss of memory|C0002622
+amnesia|C0002622
+memory loss nos|C0002622
+amnesia nos|C0002622
+lom - loss of memory|C0002622
+memory gone|C0002622
+memory loss/impairment|C0002622
+analgesic preparation|C0002771
+pain relievers|C0002771
+pain medication|C0002771
+pain relieving drugs|C0002771
+analgesic|C0002771
+painkillers|C0002771
+analgesic drugs|C0002771
+analgesic agent|C0002771
+agents, analgesic|C0002771
+anodyne|C0002771
+anodynes|C0002771
+pain killer drug|C0002771
+analgesic agents|C0002771
+pain medicines|C0002771
+analgesic, nos|C0002771
+pain killers|C0002771
+analgesics|C0002771
+analgesic drug|C0002771
+analgesics drug|C0002771
+drugs, analgesic|C0002771
+pain-relief medication|C0002771
+analgesics drugs|C0002771
+pain medicine|C0002771
+anaphylactic syndrome|C0002792
+generalized anaphylaxis|C0002792
+anaphylaxis, generalized|C0002792
+anaphylactic shock|C0002792
+systemic anaphylactic reaction|C0002792
+reaction, anaphylactic|C0002792
+allergic shock|C0002792
+anaphylactic reaction|C0002792
+generalised anaphylaxis|C0002792
+systemic anaphylaxis|C0002792
+anaphylaxis|C0002792
+hemoglobin s diseases|C0002895
+cells disease sickle|C0002895
+sickle-cell anaemia|C0002895
+sicklemia|C0002895
+sickle-cell anemia|C0002895
+cell diseases sickle|C0002895
+anemia cells sickle|C0002895
+cell disease, sickle|C0002895
+sickle-cell anaemia, unspecified|C0002895
+sickle cell-hemoglobin ss disease|C0002895
+cell disorder, sickle|C0002895
+cell diseases, sickle|C0002895
+sickle cell-haemoglobin ss disease|C0002895
+anemia cell disorders sickle|C0002895
+anemia cell disorder sickle|C0002895
+anemia sickle cell|C0002895
+anemia, sickle cell|C0002895
+sickle-cell disease, unspecified|C0002895
+anemia hemolytic sickle cell anemia|C0002895
+cell sickle syndromes|C0002895
+hb s disease|C0002895
+syndrome sickle cell|C0002895
+cell sickle syndrome|C0002895
+hemoglobin s disease|C0002895
+anaemia sickle cell|C0002895
+sickle-cell disease nos|C0002895
+haemoglobin s-s disease|C0002895
+herrick|C0002895
+sickle cell hemolytic anemia|C0002895
+sickle cell diseases|C0002895
+cell disorder sickle|C0002895
+haemoglobin s disease|C0002895
+hb-ss disease|C0002895
+sickling disorder due to hemoglobin s|C0002895
+sickle-cell disease|C0002895
+sickle cell anaemia|C0002895
+sickle-cell anemia nos|C0002895
+cell disorders, sickle|C0002895
+hereditary hemoglobinopathy disorder homozygous for hemoglobin s|C0002895
+hemoglobin ss disease|C0002895
+herrick's anemia|C0002895
+anemia cells sickles|C0002895
+hb ss disease|C0002895
+anemia hemolytic sickle hb-ss disease|C0002895
+disease hb s|C0002895
+disease sickle cell|C0002895
+drepanocythaemia|C0002895
+sickle-cell anemia, unspecified|C0002895
+sickle-cell disorders|C0002895
+anemia sickle-cell|C0002895
+sickle cell disorder|C0002895
+drepanocythemia|C0002895
+herrick syndrome|C0002895
+sickle cell anemias|C0002895
+anemia sickle celled|C0002895
+hereditary haemoglobinopathy disorder homozygous for haemoglobin s|C0002895
+hbs disease|C0002895
+sickle-cell disorder nos|C0002895
+sickle cell anemia|C0002895
+anaemia cell sickle|C0002895
+anemias, sickle cell|C0002895
+sickle cell disease nos|C0002895
+sickling disorder due to haemoglobin s|C0002895
+sickle cell disease|C0002895
+sickle cell disorders|C0002895
+sickle cell syndrome|C0002895
+disease, hemoglobin s|C0002895
+hemoglobin s-s disease|C0002895
+disease sickle-cell|C0002895
+pain angina|C0002962
+ischaemic chest pain|C0002962
+angina syndrome|C0002962
+angina pectoris, unspecified|C0002962
+angina pectoris syndrome|C0002962
+ischemic heart disease - angina|C0002962
+angina nos|C0002962
+chest pain ischemic|C0002962
+anginal syndromes|C0002962
+anginal syndrome|C0002962
+angor pectoris|C0002962
+anginal discomfort|C0002962
+anginal pain|C0002962
+ischaemic heart disease - angina|C0002962
+ischemic heart disease with angina|C0002962
+ischaemic heart disease with angina|C0002962
+angina of effort|C0002962
+angina|C0002962
+cardiac angina syndrome|C0002962
+cardiac angina|C0002962
+angina pain|C0002962
+anginas|C0002962
+chest pain - cardiac|C0002962
+ischemic chest pain|C0002962
+angina pectoris|C0002962
+ap - angina pectoris|C0002962
+stenocardias|C0002962
+angina pectoris, nos|C0002962
+angina, cardiac|C0002962
+stenocardia|C0002962
+angina, nos|C0002962
+pectoris angina|C0002962
+non-steroidal anti-inflammatory agent|C0003211
+nonsteroidal anti inflammatory agent|C0003211
+nonsteroidal antiinflammatory drug|C0003211
+nonsteroidal antiinflammatory drugs|C0003211
+nonsteroidal anti-inflammatory drug|C0003211
+nonsteroidal antiinflammatory agent|C0003211
+nsaid - non-steroidal anti-inflammatory drug|C0003211
+agent, nonsteroidal anti-inflammatory|C0003211
+agent, non-steroidal anti-inflammatory|C0003211
+anti-inflammatory agents, non-steroidal|C0003211
+nonsteroidal anti-inflammatory drugs|C0003211
+nonsteroidal antiinflammatory agents|C0003211
+nonsteroidal anti inflammatory agents|C0003211
+non steroidal anti inflammatory agents|C0003211
+non steroidal anti inflammatory agent|C0003211
+nsaids|C0003211
+non-steroidal anti-inflammatory agents|C0003211
+non-steroidal anti-inflammatory drug|C0003211
+non-steroidal anti-inflammatory agent, nos|C0003211
+anti-inflammatory agent, non-steroidal|C0003211
+antiinflammatory agents, non steroidal|C0003211
+anti inflammatory agents, nonsteroidal|C0003211
+anti-inflammatory agent, nonsteroidal|C0003211
+nsaid|C0003211
+nonsteroidal anti-inflammatory agents|C0003211
+nonsteroidal anti-inflammatory agent|C0003211
+antiinflammatory agents, nonsteroidal|C0003211
+antibiotic|C0003232
+antibiotic therapy|C0003232
+antimicrobial|C0003232
+antibiotic drugs|C0003232
+antibiotics|C0003232
+miscellaneous antibiotics|C0003232
+antibiotic, nos|C0003232
+antibiotic agents|C0003232
+antibiotic products|C0003232
+antibody|C0003241
+other ab|C0003241
+nos ab|C0003241
+little nos ab|C0003241
+antibody-containing product|C0003241
+antibodies|C0003241
+not otherwise specified antibody|C0003241
+unidentified antibody|C0003241
+unidentified ab|C0003241
+antibody, nos|C0003241
+little not otherwise specified antibody|C0003241
+anticoagulation|C0003281
+anticoagulation therapy|C0003281
+anticoagulation treatment|C0003281
+agent, antiviral|C0003451
+antiviral drug|C0003451
+agents, antiviral|C0003451
+antiviral drugs|C0003451
+antiviral agents|C0003451
+antiviral|C0003451
+antiviral agent, nos|C0003451
+substance with antiviral mechanism of action|C0003451
+drugs, antiviral|C0003451
+drug, antiviral|C0003451
+antiviral agent|C0003451
+antivirals|C0003451
+breathing stopping|C0003578
+apneas|C0003578
+apnoea|C0003578
+apnoea, nos|C0003578
+apneic episodes|C0003578
+stops breathing|C0003578
+apnoeas|C0003578
+apnea, nos|C0003578
+not breathing|C0003578
+apnea|C0003578
+breathing stop|C0003578
+stopped breathing|C0003578
+apnea nos|C0003578
+apneic|C0003578
+pulmonary arrest|C0003578
+breathing stops|C0003578
+absence of spontaneous respiration|C0003578
+has stopped breathing|C0003578
+apnoeic|C0003578
+cardiac rhythm, abnormal|C0003811
+cardiac arrhythmia, unspecified|C0003811
+arrhythmia nos|C0003811
+arrhythmia|C0003811
+cardiac rhythm disturbances|C0003811
+cardiac arrhythmias|C0003811
+abnormal heart rhythms|C0003811
+dysrhythmias|C0003811
+cardiac dysrhythmia|C0003811
+cardiac dysrhythmias|C0003811
+arrhythmia, cardiac|C0003811
+heart rhythm disorders|C0003811
+cardiac dysrhythmia, nos|C0003811
+ectopic beats all types|C0003811
+cardiac dysrhythmia, unspecified|C0003811
+dysrhythmia, cardiac|C0003811
+heart arrhythmias|C0003811
+irregular heart beat|C0003811
+cardiac rhythm disturbance|C0003811
+cardiac rhythm disorder|C0003811
+arrhythmias, cardiac|C0003811
+cardiac arrhythmia|C0003811
+arrhythmias|C0003811
+dysrhythmia|C0003811
+heart arrhythmia|C0003811
+cardiac rhythm irregular|C0003811
+cardiac arrhythmia, irregular pulse|C0003811
+cardiac arrhythmia nos|C0003811
+disorder of heart rhythm|C0003811
+irregular heartbeat|C0003811
+arrhythmia, nos|C0003811
+arrythmia|C0003811
+cardiac arrhythmia, nos|C0003811
+lack of energy and strength|C0004093
+general body state finding asthenia|C0004093
+asthenic|C0004093
+asthenia|C0004093
+asthenia nos|C0004093
+weakness|C0004093
+asthmatics|C0004096
+asthma, nos|C0004096
+asthma disorders|C0004096
+unspecified asthma|C0004096
+bronchitic asthma|C0004096
+bronchial asthma|C0004096
+bronchial asthma, nos|C0004096
+asthma, unspecified|C0004096
+asthma nos|C0004096
+asthma bronchial|C0004096
+airway hyperreactivity|C0004096
+asthma, bronchial|C0004096
+asthma|C0004096
+asthmatic|C0004096
+asthmas|C0004096
+br asthma|C0004096
+impairment, coordination|C0004134
+ataxia, nos|C0004134
+ataxia, unspecified|C0004134
+walk is wobbly or unsteady|C0004134
+ataxia|C0004134
+ataxia nos|C0004134
+impairments, coordination|C0004134
+coordination impairments|C0004134
+walk is wobbly or unsteady as symptom|C0004134
+reported ataxia|C0004134
+dyssynergia|C0004134
+ataxias|C0004134
+coordination impairment|C0004134
+ataxy|C0004134
+biological agents|C0005515
+factors, biological|C0005515
+biologic factors|C0005515
+biologic factor|C0005515
+biological substances|C0005515
+biopharmaceuticals|C0005515
+factor, biological|C0005515
+biopharmaceutical|C0005515
+agents, biological|C0005515
+agents, biologic|C0005515
+biologic|C0005515
+biotherapeutic agent|C0005515
+factor, biologic|C0005515
+biological products|C0005515
+biologics|C0005515
+biological factor|C0005515
+biological factors|C0005515
+biologic agents|C0005515
+agent, biologic|C0005515
+agent, biological|C0005515
+factors, biologic|C0005515
+biologic agent|C0005515
+biologicals|C0005515
+biological substance|C0005515
+agents biological|C0005515
+biological product|C0005515
+biological agent|C0005515
+biological drug|C0005515
+biological agent, nos|C0005515
+lesion, bullous|C0005758
+lesions, bullous|C0005758
+bullous lesion|C0005758
+blister, nos|C0005758
+blistering eruption|C0005758
+bulla|C0005758
+bullae|C0005758
+blebs|C0005758
+vesications|C0005758
+blisters|C0005758
+vesication|C0005758
+skin vesicle|C0005758
+bullous lesions|C0005758
+blistering|C0005758
+blister|C0005758
+disorder, hemostasis|C0005779
+coagulation disorders, blood|C0005779
+abnormal coagulation|C0005779
+disorders, blood coagulation|C0005779
+disorder of hemostasis|C0005779
+blood coagulation disorder|C0005779
+disorder, coagulation|C0005779
+coagulation disorders|C0005779
+hemostatic function, abnormal|C0005779
+clotting disorder|C0005779
+disorder of hemostasis, nos|C0005779
+disorder of haemostasis|C0005779
+bleeding disorders|C0005779
+coagulation defects|C0005779
+blood coagulation disorder, nos|C0005779
+blood clotting disorder|C0005779
+coagulation disorder, nos|C0005779
+blood coagulation disorder, disease or syndrome|C0005779
+disorder, blood coagulation|C0005779
+coagulation defect|C0005779
+defective coagulation nos|C0005779
+disorder of haemostasis, nos|C0005779
+disorders of coagulation|C0005779
+blood coagulation disorders, diseases and syndromes|C0005779
+hemostatic disorder|C0005779
+blood clotting disorders|C0005779
+bleeding tendency|C0005779
+coagulation defect, unspecified|C0005779
+coagulopathy|C0005779
+disorder coagulation|C0005779
+bleeding diathesis|C0005779
+disorders of blood coagulation|C0005779
+coagulation, disorders of|C0005779
+coagulopathies|C0005779
+clotting disorders|C0005779
+coagulation disorder, blood|C0005779
+abnormality of the coagulation cascade|C0005779
+blood coagulation disorders|C0005779
+coagulopathy, nos|C0005779
+blood clotting disorder, nos|C0005779
+bleeding disorder|C0005779
+clotting|C0005779
+disorder of haemostatic system|C0005779
+blood coagulation defect|C0005779
+disorder of hemostatic system|C0005779
+coagulation disorder|C0005779
+coagulation disorder nos|C0005779
+blushing|C0005874
+flushes|C0005874
+face goes red|C0005874
+blushings|C0005874
+blush|C0005874
+blushing, function|C0005874
+blushes|C0005874
+spasms, bronchial|C0006266
+bronchial spasm|C0006266
+spasm, bronchial|C0006266
+spasm bronchial|C0006266
+bronchospasm nos|C0006266
+bronchospasm|C0006266
+bronchial spasms|C0006266
+bronchospasms|C0006266
+hs-crp|C0006560
+high sensitivity c reactive protein|C0006560
+high sensitivity c-reactive protein|C0006560
+hscrp|C0006560
+c reactive proteins|C0006560
+proteins, specific or class, c-reactive|C0006560
+c-reactive protein|C0006560
+c reactive protein|C0006560
+crp - c-reactive protein|C0006560
+general body deterioration|C0006625
+cachexia|C0006625
+cachectic|C0006625
+cachexia, nos|C0006625
+wasting|C0006625
+wasting syndrome|C0006625
+ca - cancer|C0006826
+malignancy|C0006826
+malignant neoplasm|C0006826
+neoplasms, malignant|C0006826
+tumor, malignant|C0006826
+unclassified tumour, malignant|C0006826
+neoplasm/cancer|C0006826
+cancer nos|C0006826
+tumour, malignant|C0006826
+malignant tumors|C0006826
+tumor, malignant, nos|C0006826
+malignant growth|C0006826
+malignant tumour|C0006826
+unclassified tumor, malignant|C0006826
+malignant neoplastic disease|C0006826
+malignancies|C0006826
+cancers|C0006826
+neoplasm malignant|C0006826
+malignant neoplasm nos|C0006826
+cancer|C0006826
+neoplasm, malignant|C0006826
+malignancy nos|C0006826
+malignant tumours|C0006826
+cancer, nos|C0006826
+malignant neoplasm without specification of site|C0006826
+cancer, unspecified site|C0006826
+neoplastic disease, malignant|C0006826
+malignant tumor|C0006826
+malignancy, unspecified site|C0006826
+malignant tumoral disease|C0006826
+malignant neoplasms|C0006826
+cardiovascular system--diseases|C0007222
+cardiovascular disease|C0007222
+cardiovascular disease, nos|C0007222
+cardiovascular disorder nos|C0007222
+cv disorders|C0007222
+disease of cardiovascular system, nos|C0007222
+cardiovascular disorder|C0007222
+cvd, nos|C0007222
+cardiovascular diseases|C0007222
+cvs disease|C0007222
+cvs disease - cardiovascular system disease|C0007222
+cardiovascular disease, unspecified|C0007222
+disease or syndrome of cardiovascular system|C0007222
+cardiovascular disorder, nos|C0007222
+diseases of the cardiovascular system|C0007222
+cardiovascular disorders|C0007222
+cardiovascular disorders, general|C0007222
+disorder of cardiovascular system|C0007222
+diseases and syndromes of cardiovascular system|C0007222
+diseases affecting the entire cardiovascular system|C0007222
+diseases, cardiovascular|C0007222
+cardiovascular system disease|C0007222
+disease, cardiovascular|C0007222
+general cardiovascular system diseases and syndromes|C0007222
+cvd - cardiovascular disease|C0007222
+cardiovascular system diseases|C0007222
+cell count procedure|C0007584
+counts, cell|C0007584
+numbers, cell|C0007584
+number, cell|C0007584
+cells|C0007584
+cell counting|C0007584
+count, cell|C0007584
+cell count|C0007584
+cell number|C0007584
+cells count|C0007584
+cells counts|C0007584
+cell numbers|C0007584
+cell counts|C0007584
+wall chest pain|C0008035
+chest wall pain|C0008035
+pain chest wall|C0008035
+chest pain localizing to the chest wall|C0008035
+chest pain localizing to chest wall|C0008035
+chest pain wall|C0008035
+chest pains wall|C0008035
+choke|C0008301
+choking|C0008301
+choked|C0008301
+fear of enclosed spaces|C0008909
+fear of confined spaces|C0008909
+claustrophobias|C0008909
+fear of closed spaces|C0008909
+claustrophobia|C0008909
+cold feelings|C0009269
+cold intolerance|C0009269
+cold feel|C0009269
+feels the cold|C0009269
+intolerance cold|C0009269
+sensitive cold|C0009269
+sensitive to cold|C0009269
+cold sensitive|C0009269
+sensitivity cold|C0009269
+chilly person|C0009269
+cold sensitivity|C0009269
+intolerant of cold|C0009269
+feel cold|C0009269
+colds, common|C0009443
+nasopharyngitis, acute|C0009443
+infective nasopharyngitis nos|C0009443
+cold, common|C0009443
+acute coryza|C0009443
+rhinitis infectious|C0009443
+infective nasopharyngitis|C0009443
+rhinitis infective|C0009443
+infective rhinitis|C0009443
+coryza, acute|C0009443
+infective nasopharyngitis, nos|C0009443
+head cold, nos|C0009443
+colds|C0009443
+head cold|C0009443
+rhinitis, infective|C0009443
+acute nasal catarrh|C0009443
+upper respiratory infection acute|C0009443
+acute nasopharyngitis|C0009443
+rhinitis acute|C0009443
+upper respiratory infection viral|C0009443
+viral upper respiratory infection|C0009443
+nasal catarrh, acute|C0009443
+acute infective rhinitis|C0009443
+common cold|C0009443
+non-allergic rhinitis|C0009443
+infectious rhinitis|C0009443
+common colds|C0009443
+acute rhinitis|C0009443
+coryza|C0009443
+rhinitis, acute|C0009443
+acute nasopharyngitis, nos|C0009443
+common cold syndrome|C0009443
+disease due to infection|C0009450
+disease caused by microorganism|C0009450
+infectious|C0009450
+infectious or communicable disease|C0009450
+microbial colonization|C0009450
+infections and infestations|C0009450
+infectious disorders|C0009450
+infective disorder|C0009450
+infection unspecified|C0009450
+rndx infection unspecified|C0009450
+unspecified infection|C0009450
+infectious disease nos|C0009450
+disorder due to infection|C0009450
+contagious diseases|C0009450
+infection, nos|C0009450
+infectious disorder|C0009450
+clinical infection|C0009450
+infectious diseases|C0009450
+infectious diseases and manifestations|C0009450
+communicable infectious disease|C0009450
+contagious disease, nos|C0009450
+disease, communicable|C0009450
+diseases, infectious|C0009450
+communicable disease, nos|C0009450
+communicable disease|C0009450
+infectious disease, nos|C0009450
+communicable diseases|C0009450
+diseases, communicable|C0009450
+contagious disease|C0009450
+transmissible disease, nos|C0009450
+disease, infectious|C0009450
+infectious disease|C0009450
+infection|C0009450
+confused|C0009676
+mental disorientation|C0009676
+states, confusional|C0009676
+easily confused|C0009676
+confusion|C0009676
+confusion state|C0009676
+rndx confusion|C0009676
+confusion disorientation|C0009676
+confusion nos|C0009676
+confusion was observed|C0009676
+confusion and disorientation|C0009676
+bewilderment|C0009676
+muddled|C0009676
+confusion/ disorientation|C0009676
+state, confusional|C0009676
+feeling dazed|C0009676
+mental confusion|C0009676
+dazed state|C0009676
+cognitive functions confusion|C0009676
+confusional states|C0009676
+confusional state|C0009676
+dazing|C0009676
+delirium confusional state|C0009676
+disorientation|C0009676
+dazed|C0009676
+disorientation confusion|C0009676
+coronary heart disease|C0010054
+atherosclerosis of coronary artery|C0010054
+ischaemic heart disease|C0010054
+atherosclerotic heart disease nos|C0010054
+atherosclerosis of native coronary artery|C0010054
+atherosclerosis coronary artery|C0010054
+coronary artery arteriosclerosis|C0010054
+plaque build-up in arteries supplying blood to heart|C0010054
+coronary atherosclerotic heart disease|C0010054
+atherosclerosis, coronary|C0010054
+arteriosclerotic heart disease|C0010054
+cardiac ischemia|C0010054
+coronary atherosclerosis|C0010054
+coronary artery atherosclerosis|C0010054
+arteriosclerotic coronary artery disease|C0010054
+arteriosclerosis, coronary|C0010054
+atherosclerotic coronary vascular disease|C0010054
+atherosclerotic heart disease|C0010054
+coronary atheroscleroses|C0010054
+coronary artery disease|C0010054
+atheroscleroses, coronary|C0010054
+myocardial ischemia|C0010054
+coronary arteriosclerosis|C0010054
+cardiac sclerosis|C0010054
+coronary atheroma|C0010054
+coronary sclerosis|C0010054
+cardiac ischaemia|C0010054
+myocardial ischaemia|C0010054
+coronary artery sclerosis|C0010054
+coronary artery diseases|C0010054
+arteriosclerosis coronary artery|C0010054
+coronary arterioscleroses|C0010054
+arterioscleroses, coronary|C0010054
+cough|C0010200
+coughs|C0010200
+coughing|C0010200
+cough, nos|C0010200
+coughing symptom|C0010200
+observation of cough|C0010200
+coughing - function|C0010200
+cough symptoms|C0010200
+cough symptom|C0010200
+chronic coughing|C0010201
+cough, chronic|C0010201
+chronic cough|C0010201
+chronic coughs|C0010201
+cough chronic|C0010201
+critically ill|C0010340
+illnesses, critical|C0010340
+critical illnesses|C0010340
+critical illness|C0010340
+illness, critical|C0010340
+cf - cystic fibrosis|C0010674
+pancreas cystic fibrosis|C0010674
+fibrosis, cystic|C0010674
+cystic fibrosis, unspecified|C0010674
+fibrocystic disease of pancreas|C0010674
+fibrocystic disease|C0010674
+diseases fibrocystic|C0010674
+disease fibrocystic pancreas|C0010674
+cystic fibrosis nos|C0010674
+cystic fibrosis|C0010674
+cystic disorder fibrosis|C0010674
+disease fibrocystic|C0010674
+mucoviscidosis|C0010674
+cystic fibrosis pancreas|C0010674
+dysphagia/ odynophagia|C0011168
+swallowing disorders|C0011168
+swallowing difficulties|C0011168
+swallowing difficult|C0011168
+swallowing difficulty|C0011168
+swallowing disorder|C0011168
+disorders, deglutition|C0011168
+dysphagia|C0011168
+disorder deglutition|C0011168
+dysphagia, nos|C0011168
+difficulty swallowing|C0011168
+cannot get food down|C0011168
+poor swallowing|C0011168
+difficult swallowing|C0011168
+difficulty in swallowing|C0011168
+difficulty in swallowing nos|C0011168
+dysphagia, unspecified|C0011168
+dysphagias|C0011168
+deglutition disorder|C0011168
+can't get food down|C0011168
+difficulties swallowing|C0011168
+deglutition disorders|C0011168
+deliria|C0011206
+brain syndrome acute|C0011206
+delirium, nos|C0011206
+acute delirium|C0011206
+delirium nos|C0011206
+unspecified delirium|C0011206
+delirious|C0011206
+acute brain syndrome, nos|C0011206
+acute brain syndrome|C0011206
+delirium, unspecified|C0011206
+abs - acute brain syndrome|C0011206
+delirium|C0011206
+syndrome brain acute|C0011206
+delirium acute|C0011206
+delusions|C0011253
+delusional thoughts|C0011253
+delusional|C0011253
+delusion, nos|C0011253
+delusional symptoms|C0011253
+delusion nos|C0011253
+delusional ideas|C0011253
+fixed beliefs contradicted by reality|C0011253
+delusion|C0011253
+depressive disorder|C0011581
+neurosis, depressive|C0011581
+depressive disorders|C0011581
+disorder, depressive|C0011581
+depressivity|C0011581
+depressive disorder, nos|C0011581
+depression nos|C0011581
+depressive neuroses|C0011581
+depressive illness|C0011581
+depressive disorder nos|C0011581
+mood disorder of depressed type|C0011581
+neuroses, depressive|C0011581
+disorders, depressive|C0011581
+depressive neurosis|C0011581
+depression|C0011581
+diabetes nos|C0011847
+diabetes|C0011847
+diabetes mellitus nos late onset|C0011860
+diabetes mellitus, slow-onset|C0011860
+diabetes mellitus, type 2|C0011860
+diabetes mellitus, adult onset|C0011860
+type ii diabetes mellitus|C0011860
+type ii diabetes|C0011860
+diabetes mellitus, noninsulin dependent|C0011860
+maturity-onset diabetes|C0011860
+diabetes mellitus, noninsulin-dependent|C0011860
+diabetes mellitus, stable|C0011860
+diabetes mellitus, type ii|C0011860
+diabetes|C0011860
+diabete type 2|C0011860
+diabetes mellitus, adult onset type|C0011860
+diabetes, maturity onset|C0011860
+diabetes mellitus, ketosis-resistant|C0011860
+diabetes mellitus, adult-onset|C0011860
+diabetes, maturity-onset|C0011860
+diabetes mellitus type 2|C0011860
+diabetes mellitus, non insulin dependent|C0011860
+diabetes mellitus, ketosis resistant|C0011860
+ketosis-resistant diabetes mellitus|C0011860
+ketosis resistant diabetes|C0011860
+diabetes mellitus, maturity-onset|C0011860
+stable diabetes mellitus|C0011860
+diabetes, ketosis resistant|C0011860
+diabetes, type 2|C0011860
+adult onset diabetes|C0011860
+diabetes, adult onset|C0011860
+diabetes, type ii|C0011860
+diabetes mellitus, maturity onset|C0011860
+non insulin dependent diabetes|C0011860
+adult onset diabetes mellitus|C0011860
+type 2 diabetes mellitus non-insulin dependent|C0011860
+diabetes mellitus, slow onset|C0011860
+slow-onset diabetes mellitus|C0011860
+non-insulin-dependent diabetes mellitus|C0011860
+ncdmm|C0011860
+diabetes type 2|C0011860
+adult-onset diabetes|C0011860
+adult-onset diabetes mellitus|C0011860
+type 2 diabetes|C0011860
+non-insulin-dependent diabetes|C0011860
+diabetes type ii|C0011860
+t2dm - type 2 diabetes mellitus|C0011860
+niddm|C0011860
+niddm diabetes mellitus|C0011860
+niddm - non-insulin dependent diabetes mellitus|C0011860
+late onset diabetes|C0011860
+t2dm - diabetes mellitus type 2|C0011860
+type 2 diabetes mellitus|C0011860
+non-insulin dependent diabetes mellitus|C0011860
+diabetes mellitus, non-insulin dependent|C0011860
+non-insulin dependent diabetes|C0011860
+diabetes mellitus, non-insulin-dependent|C0011860
+maturity onset diabetes|C0011860
+diabetes mellitus - adult onset|C0011860
+diabetes non-insulin dependent|C0011860
+diabetes mellitus non-insulin-dependent|C0011860
+maturity-onset diabetes mellitus|C0011860
+diabetes mellitus non insulin-dep|C0011860
+maturity onset diabetes mellitus|C0011860
+diabetes mellitus maturity onset|C0011860
+noninsulin-dependent diabetes mellitus|C0011860
+noninsulin-dependent diabetes|C0011860
+noninsulin dependent diabetes mellitus|C0011860
+noninsulin dependent diabetes|C0011860
+diabetes mellitus type ii|C0011860
+diabetes mellitus non insulin dependent|C0011860
+diagnosing|C0011900
+diagnoses|C0011900
+diagnosed|C0011900
+diagnose|C0011900
+diagnosis|C0011900
+diagnostic|C0011900
+disease and/or syndrome present|C0012634
+disease or syndrome present|C0012634
+disease or disorder, non-neoplastic|C0012634
+disease or disorder|C0012634
+disorder|C0012634
+diagnoses, syndromes, and conditions|C0012634
+clinical disease or syndrome present, nos|C0012634
+disease/disorder|C0012634
+clinical disease or syndrome present|C0012634
+diseases|C0012634
+disease or syndrome present, nos|C0012634
+disorder, nos|C0012634
+disorders|C0012634
+disease, nos|C0012634
+disease|C0012634
+clinical disease or syndrome, nos|C0012634
+condition|C0012634
+clinical disease or syndrome|C0012634
+clinical disease and/or syndrome present|C0012634
+other disease|C0012634
+clinical disease and/or syndrome|C0012634
+diseases and disorders|C0012634
+mouth watering|C0013132
+dribble|C0013132
+dribbles|C0013132
+drool|C0013132
+drooling from mouth|C0013132
+oversalivation|C0013132
+drooled|C0013132
+drooling|C0013132
+dribbling|C0013132
+watery mouth|C0013132
+excessive salivation|C0013132
+dribbling from mouth|C0013132
+dry eyes syndrome|C0013238
+dry eye disease|C0013238
+dry eye diseases|C0013238
+dry eyes|C0013238
+syndrome dry eye|C0013238
+dry eye syndromes|C0013238
+dry eye syndrome|C0013238
+keratoconjunctivitis sicca|C0013238
+tear film deficiency|C0013238
+dry eye|C0013238
+dyspepsia|C0013395
+indigestion, nos|C0013395
+indigestions|C0013395
+dyspepsias|C0013395
+dyspepsia, nos|C0013395
+indigestion|C0013395
+dyspepsia/indigestion|C0013395
+dyspnoea, nos|C0013404
+abnormal breathing|C0013404
+s.o.b|C0013404
+dyspnoea nos|C0013404
+breathing shortness|C0013404
+respiratory difficulty|C0013404
+respiration difficult|C0013404
+dyspnoeas|C0013404
+breathless|C0013404
+respiratory difficulties|C0013404
+breathlessness|C0013404
+breathing difficult|C0013404
+breath shortnesses|C0013404
+dyspnoea|C0013404
+dib - difficulty in breathing|C0013404
+breathlessnesses|C0013404
+breathing difficulty|C0013404
+difficult to breathe|C0013404
+shortness of breath|C0013404
+breath shortness|C0013404
+trouble breathing|C0013404
+tightness of breath|C0013404
+short of breath|C0013404
+dyspneas|C0013404
+breathing difficulties|C0013404
+dyspnea|C0013404
+difficulty breathing|C0013404
+shortness of breath dyspnea|C0013404
+sob - shortness of breath|C0013404
+difficult breathing|C0013404
+dyspnea nos|C0013404
+dyspnea, nos|C0013404
+dyspnea, unspecified|C0013404
+shortness of breath/dyspnoea|C0013404
+persistent depressive disorder, dysthymia|C0013415
+dysthymia disorder|C0013415
+disorder, dysthymic|C0013415
+dysthymia, nos|C0013415
+dysthymia|C0013415
+dysthymic disorder|C0013415
+dysthymic disorders|C0013415
+ecchymosis|C0013491
+ecchymosis nos|C0013491
+ecchymoses|C0013491
+echocardiography procedures|C0013516
+us scan of heart|C0013516
+echocardiographic procedures|C0013516
+echocardiographic procedure|C0013516
+echocardiographic procedure, nos|C0013516
+echocardiogram|C0013516
+echocardiography|C0013516
+cardiac echo|C0013516
+transthoracic echocardiography|C0013516
+ultrasonic cardiography|C0013516
+diagnostic ultrasound of heart|C0013516
+echocardiograms|C0013516
+heart ultrasound|C0013516
+sound measurement|C0013516
+echocardiography, nos|C0013516
+us heart scan|C0013516
+cardiac us scan|C0013516
+echocardiography, transthoracic|C0013516
+ultrasonography of heart, nos|C0013516
+ultrasonography of heart|C0013516
+ultrasound of heart|C0013516
+heart sonography|C0013516
+eczematous rash|C0013595
+eczematous dermatitis, nos|C0013595
+eczematoid dermatitis|C0013595
+dermatitis, eczematous|C0013595
+eczema|C0013595
+eczematous dermatitis|C0013595
+atopic dermatitis|C0013595
+dermatitides, eczematous|C0013595
+eczema, nos|C0013595
+eczema nos|C0013595
+eczemas|C0013595
+dermatitis eczematoid|C0013595
+eczematous skin lesions|C0013595
+eczematous dermatitides|C0013595
+electrocardiography|C0013798
+electrocardiograph|C0013798
+electrocardiograms|C0013798
+electrocardiogram|C0013798
+bleeds nose symptoms|C0014591
+bloody nose|C0014591
+epistaxis|C0014591
+bleedings, nasal|C0014591
+bleeds nose symptom|C0014591
+nasal hemorrhage|C0014591
+bleeding nose|C0014591
+observation of bleeding of nose|C0014591
+hemorrhage from nose|C0014591
+nasal haemorrhage|C0014591
+bleeding, nasal|C0014591
+nosebleeds|C0014591
+bleeding from nose|C0014591
+nasal bleeding|C0014591
+nasal bleed|C0014591
+nose bleed|C0014591
+nosebleed|C0014591
+hemorrhage nasal|C0014591
+nose bleed/epistaxis|C0014591
+finding of bleeding of nose|C0014591
+nasal bleedings|C0014591
+haemorrhage nasal|C0014591
+nose bleeding|C0014591
+bleeding from the nose|C0014591
+nose bleeds|C0014591
+rash and other nonspecific skin eruption|C0015230
+exanthemata|C0015230
+exanthem|C0015230
+eruption of skin|C0015230
+skin rashes|C0015230
+skin eruption|C0015230
+cutaneous eruptions|C0015230
+rash, skin|C0015230
+eruption|C0015230
+cutaneous eruption, nos|C0015230
+breaking out - eruption|C0015230
+efflorescence|C0015230
+rashes|C0015230
+exanthemas|C0015230
+spots|C0015230
+cutaneous eruption on skin|C0015230
+exanthems|C0015230
+rash nos|C0015230
+exanthema|C0015230
+skin rash|C0015230
+rash, nos|C0015230
+cutaneous eruption|C0015230
+pain, facial|C0015468
+facial pain, nos|C0015468
+facial pain nos|C0015468
+pain face|C0015468
+ache face|C0015468
+pain, face|C0015468
+face ache|C0015468
+faces pain|C0015468
+pain facial|C0015468
+of face pain|C0015468
+face pain|C0015468
+facial pain|C0015468
+pain in face|C0015468
+pain of face, nos|C0015468
+pain of face|C0015468
+muscle twitch|C0015644
+flickering muscles|C0015644
+muscle twitching|C0015644
+spontaneous contraction of muscle|C0015644
+fluttering muscles|C0015644
+writhing muscles|C0015644
+spontaneous muscle contraction|C0015644
+muscle flutter|C0015644
+fasciculation|C0015644
+muscle fasciculation|C0015644
+fasciculations, muscular|C0015644
+fasciculation, muscular|C0015644
+muscular fasciculation|C0015644
+muscular fasciculations|C0015644
+fasciculations|C0015644
+pains, flank|C0016199
+flank pain|C0016199
+pain in the flank|C0016199
+flank pains|C0016199
+pain flank|C0016199
+pain in flank|C0016199
+pain, flank|C0016199
+farting|C0016204
+gaseousness|C0016204
+farts|C0016204
+flatulence symptom|C0016204
+passage of gas by anus|C0016204
+intestinal gas excretion|C0016204
+excessive passing of gas|C0016204
+full of wind|C0016204
+winding|C0016204
+flatulence|C0016204
+flatus|C0016204
+passing wind|C0016204
+wind symptom|C0016204
+passing flatus|C0016204
+wind - flatus|C0016204
+excessive farting|C0016204
+pass wind|C0016204
+gas passing|C0016204
+flatus, function|C0016204
+abdominal wind|C0016204
+fluids|C0016286
+rnax fluid therapy actions|C0016286
+rnrx fluid therapy|C0016286
+therapies, fluid|C0016286
+therapy, fluid|C0016286
+body fluid balance therapy|C0016286
+fluid therapy|C0016286
+fluid therapies|C0016286
+fluids therapy|C0016286
+skin flush|C0016382
+flush face|C0016382
+flush|C0016382
+flushed face|C0016382
+flushing facial|C0016382
+sudden redness of skin|C0016382
+skin flushed|C0016382
+flushing face|C0016382
+flushing of face|C0016382
+flushing reaction|C0016382
+sudden redness of skin primarily involving face|C0016382
+skin flushing|C0016382
+reddened skin|C0016382
+flushings|C0016382
+facial flushing|C0016382
+flushing|C0016382
+skin flushing as symptom|C0016382
+face flushing|C0016382
+cutaneous vascular engorgement|C0016382
+facial flush|C0016382
+flushes|C0016382
+flushed skin|C0016382
+face goes red|C0016382
+face flush|C0016382
+skin reddening|C0016382
+flushed|C0016382
+face flushed|C0016382
+pain in foot|C0016512
+foot pains|C0016512
+hindfoot pain|C0016512
+foot pain|C0016512
+limb pain foot|C0016512
+podalgia|C0016512
+musculoskeletal foot/feet pain|C0016512
+pain foot|C0016512
+foot/feet pain|C0016512
+hindfoot painful|C0016512
+crawling|C0016579
+crawling sensation of skin|C0016579
+crawling sensations|C0016579
+crawling sensation|C0016579
+formications|C0016579
+formication|C0016579
+gastrointestinal haemorrhage, unspecified|C0017181
+gastrointestinal haemorrhages|C0017181
+gi haemorrhage, nos|C0017181
+gi - gastrointestinal hemorrhage|C0017181
+gastrointestinal hemorrhage, unspecified|C0017181
+gastrointestinal hemorrhages|C0017181
+gi bleeding|C0017181
+gastrointestinal hemorrhage, nos|C0017181
+gastrointestinal haemorrhage, nos|C0017181
+gi haemorrhage|C0017181
+gi hemorrhage|C0017181
+gastrointestinal haemorrhage nos|C0017181
+gi hemorrhage, nos|C0017181
+gastrointestinal haemorrhage|C0017181
+gastrointestinal tract bleed nos|C0017181
+hemorrhage, gastrointestinal|C0017181
+gi tract bleed|C0017181
+gi bleeding, nos|C0017181
+gi - gastrointestinal haemorrhage|C0017181
+hemorrhage gastrointestinal|C0017181
+gi - gastrointestinal bleed|C0017181
+gi bleed|C0017181
+gastrointestinal hemorrhage|C0017181
+gastrointestinal tract hemorrhage|C0017181
+gastrointestinal hemorrhage nos|C0017181
+gastro intestinal bleed|C0017181
+gastro intestinal bleeding|C0017181
+gastrointestinal bleeding, nos|C0017181
+gastro-intestinal tract bleed|C0017181
+gih - gastrointestinal hemorrhage|C0017181
+hemorrhage of gastrointestinal tract|C0017181
+hemorrhage of digestive tract|C0017181
+bleeding, gastrointestinal|C0017181
+bleeding gastrointestinal|C0017181
+gih - gastrointestinal haemorrhage|C0017181
+gastrostaxis|C0017181
+git - gastrointestinal tract haemorrhage|C0017181
+git - gastrointestinal tract hemorrhage|C0017181
+haemorrhage gastrointestinal|C0017181
+haemorrhage of digestive tract|C0017181
+haemorrhage of gastrointestinal tract, unspecified|C0017181
+gastrointestinal bleed|C0017181
+gastrointestinal bleeding|C0017181
+hemorrhage of gastrointestinal tract, unspecified|C0017181
+gib - gastrointestinal bleeding|C0017181
+gynaecomazia|C0018418
+enlarged male breast|C0018418
+breast enlargement male|C0018418
+gynecomastia of non-human mammary gland|C0018418
+enlargement, male breast|C0018418
+male breast enlargement|C0018418
+enlargement breast male|C0018418
+gynecomazia|C0018418
+gynaecomastia|C0018418
+mammary enlargement in male|C0018418
+breast enlargement, male|C0018418
+gynecomastia|C0018418
+hypertrophy of male breast|C0018418
+diseases of the heart|C0018799
+cardiac diseases|C0018799
+disease hearts|C0018799
+heart disease|C0018799
+disease disorders heart|C0018799
+cardiopathy|C0018799
+morbus cordis nos|C0018799
+morbus cordis, nos|C0018799
+heart disease, unspecified|C0018799
+heart--diseases|C0018799
+cardiopathy, nos|C0018799
+morbus cordis|C0018799
+heart disorders|C0018799
+heart disease, nos|C0018799
+cardiac disease|C0018799
+disease or syndrome of heart|C0018799
+cardiopathies|C0018799
+cardiac disorder nos|C0018799
+disorder of heart|C0018799
+heart disorder|C0018799
+disease cardiac|C0018799
+cardiac disorders|C0018799
+diseases and syndromes of heart|C0018799
+disorder heart|C0018799
+cardiac disorder|C0018799
+heart disease nos|C0018799
+heart diseases|C0018799
+rndx cardiac|C0018799
+heart disease disorder|C0018799
+syndrome heart disease|C0018799
+unspecified heart problem|C0018799
+diseases disorders heart|C0018799
+heart murmuring|C0018808
+cardiac murmur, nos|C0018808
+cardiac murmur nos|C0018808
+cardiac murmur|C0018808
+cardiac murmur, unspecified|C0018808
+cardiac murmurs|C0018808
+heart murmur nos|C0018808
+murmur, cardiac|C0018808
+heart murmur, nos|C0018808
+murmur, heart|C0018808
+observation of heart murmur|C0018808
+murmurs, heart|C0018808
+murmurs, cardiac|C0018808
+murmuring|C0018808
+heart murmur|C0018808
+murmurs|C0018808
+heart murmurs|C0018808
+finding of heart murmur|C0018808
+heart/arterial murmur nos|C0018808
+heart murmur on auscultation|C0018808
+murmur|C0018808
+murmur, nos|C0018808
+heartburn|C0018834
+pyrosis/heartburn|C0018834
+acidity|C0018834
+pyrosis|C0018834
+acid reflux|C0018834
+pyroses|C0018834
+heart burn|C0018834
+heartburn symptom|C0018834
+brash|C0018834
+burning reflux|C0018834
+haematochezia|C0018932
+bloody stool|C0018932
+blood bright red stools|C0018932
+bloody feces|C0018932
+bright red blood per rectum|C0018932
+hematochezias|C0018932
+bright red blood stool|C0018932
+rectal bleeding bright red|C0018932
+passage of bloody stools|C0018932
+rectal bleeding|C0018932
+hematochezia|C0018932
+recurrent rectal bleeding|C0018932
+bright red blood in stool|C0018932
+fresh blood passed per rectum|C0018932
+red blood in stool|C0018932
+bright red rectal bleeding|C0018932
+fresh blood stool|C0018932
+blood in stool|C0018932
+blood in feces|C0018932
+brbpr|C0018932
+fresh blood in stool|C0018932
+blood in faeces|C0018932
+blood fresh stools|C0018932
+brbpr - bright red blood per rectum|C0018932
+bright red blood with stool|C0018932
+red blood in bowel movement|C0018932
+hematological testing|C0018941
+hematology testing|C0018941
+hematologic technique|C0018941
+haematology - general|C0018941
+hematology tests|C0018941
+blood--analysis|C0018941
+blood test nos|C0018941
+blood test|C0018941
+hematologic tests|C0018941
+hematological tests|C0018941
+hematologic testing|C0018941
+tests hematological|C0018941
+haematology test|C0018941
+hematology procedure|C0018941
+tests, hematologic|C0018941
+tests, blood|C0018941
+hematological test|C0018941
+hematology - general|C0018941
+blood tests|C0018941
+test, hematologic|C0018941
+test, hematological|C0018941
+test, blood|C0018941
+hematology|C0018941
+blood test procedure|C0018941
+tests, hematological|C0018941
+hematologic test|C0018941
+hematology technique|C0018941
+blood testing|C0018941
+blood analysis|C0018941
+hematology test|C0018941
+hematoma|C0018944
+haematomas|C0018944
+vascular system disorders hematoma|C0018944
+haematoma nos|C0018944
+haematoma, nos|C0018944
+hematoma nos|C0018944
+hematomas|C0018944
+haematoma|C0018944
+hematoma, nos|C0018944
+hemiparalysis|C0018991
+hemiplegia|C0018991
+hemiplegias|C0018991
+hemiplegia, unspecified|C0018991
+paralysis one side of body|C0018991
+paralysis of one side of body|C0018991
+hemiplegia was seen|C0018991
+hemiplegia, nos|C0018991
+paralysis on one side of body|C0018991
+coughing up blood-streaked sputum|C0019079
+spit up blood|C0019079
+blood in sputum - haemoptysis|C0019079
+coughing blood|C0019079
+expectoration of hemorrhagic sputum|C0019079
+blood spitting up|C0019079
+blood coughed|C0019079
+hemoptysis|C0019079
+cough up blood|C0019079
+blood in sputum - hemoptysis|C0019079
+blood streaked sputum|C0019079
+hemoptysis, unspecified|C0019079
+bloody sputum|C0019079
+hemoptyses|C0019079
+expectoration of haemorrhagic sputum|C0019079
+coughing and spitting blood|C0019079
+blood spit up|C0019079
+spitting up blood|C0019079
+expectoration of bloody sputum|C0019079
+haemoptysis|C0019079
+expectoration of blood streaked sputum|C0019079
+sputum bloody|C0019079
+coughing up blood|C0019079
+herpes lips|C0019345
+cold sores lip|C0019345
+fever sore|C0019345
+fever sores|C0019345
+herpes simplex, labial|C0019345
+fever blister|C0019345
+fever blisters|C0019345
+lip cold sore|C0019345
+lip cold sores|C0019345
+cold sores|C0019345
+herpes febrilis|C0019345
+cold sore|C0019345
+coldsore|C0019345
+sore, cold|C0019345
+labial herpes simplex|C0019345
+blister, fever|C0019345
+herpes lip|C0019345
+lip herpes|C0019345
+blister fever|C0019345
+sores, cold|C0019345
+herpes labialis|C0019345
+herpes simplex labialis|C0019345
+blisters, fever|C0019345
+herpes on lip|C0019345
+hiccoughs|C0019521
+hiccoughs/hiccups|C0019521
+hiccup|C0019521
+hiccups were heard|C0019521
+singultation|C0019521
+observation of hiccoughs|C0019521
+hiccough|C0019521
+hiccups|C0019521
+hiccoughing|C0019521
+singultus|C0019521
+hiccuping|C0019521
+finding of hiccoughs|C0019521
+singultous|C0019521
+dysphonia|C0019825
+hoarseness - throat symptom|C0019825
+hoarse|C0019825
+voice hoarseness|C0019825
+hoarseness symptom|C0019825
+hoarse voice|C0019825
+hoarseness of voice|C0019825
+croaky voice|C0019825
+hoarsenesses|C0019825
+hoarse voice quality|C0019825
+husky voice|C0019825
+hoarseness, voice|C0019825
+hoarseness|C0019825
+hydroxychloroquinum|C0020336
+oxychloroquine|C0020336
+oxychlorochin|C0020336
+hidroxicloroquina|C0020336
+oxichloroquine|C0020336
+hydroxychlorochin|C0020336
+hydroxychloroquine|C0020336
+hydroxychloroquine-containing product|C0020336
+oxichlorochine|C0020336
+excessive eating, nos|C0020505
+overeats|C0020505
+polyphagia|C0020505
+hyperalimentation|C0020505
+polyphagias|C0020505
+excessive eating|C0020505
+voracious appetite|C0020505
+overeating, nos|C0020505
+excessive eating - polyphagia|C0020505
+over eating|C0020505
+overeat|C0020505
+overeating|C0020505
+hyperalimentation, nos|C0020505
+gluttony|C0020505
+extreme overeating|C0020505
+excessive oral food intake|C0020505
+hyperphagia|C0020505
+hyperalimentation nos|C0020505
+sensations, reduced|C0020580
+sensation impaired|C0020580
+hypoesthesias|C0020580
+reduced sensation|C0020580
+limited sensation|C0020580
+reduced sensation of skin|C0020580
+tactile hypesthesias|C0020580
+sensations, impaired|C0020580
+somatic sensory dysfunction|C0020580
+tactile hypesthesia|C0020580
+cutaneous hypoesthesia|C0020580
+sensory impairment|C0020580
+reduced sensations|C0020580
+hypoesthesia|C0020580
+hypesthesias|C0020580
+decreased sensitivity|C0020580
+hypesthesia, tactile|C0020580
+impaired sensation|C0020580
+numbness|C0020580
+sensation, reduced|C0020580
+hypesthesia|C0020580
+impaired sensations|C0020580
+tactile hypaesthesia|C0020580
+hypoaesthesia|C0020580
+sensation, impaired|C0020580
+hypesthesias, tactile|C0020580
+hypaesthesia|C0020580
+decreased sensation|C0020580
+propionic acid-ibuprofen|C0020740
+4-isobutylhydratropic acid|C0020740
+ibuprophen|C0020740
+p-isobutylhydratropic acid|C0020740
+ibuprofen-containing product|C0020740
+ibuprofeno|C0020740
+ibuprofenum|C0020740
+ibuprofen pmr|C0020740
+ibuprofen product|C0020740
+ibuprofen|C0020740
+ibuprofen products|C0020740
+non-prescription ibuprofen|C0020740
+ibuprofene|C0020740
+boosters|C0020975
+immunization, booster|C0020975
+immunizations, booster|C0020975
+boosters immunization|C0020975
+booster|C0020975
+secondary immunizations|C0020975
+booster vaccination|C0020975
+immunization, secondary|C0020975
+secondary immunization|C0020975
+booster immunisation|C0020975
+booster immunization|C0020975
+immunizations, secondary|C0020975
+booster immunizations|C0020975
+booster shot|C0020975
+immunosuppressive agent, nos|C0021081
+immunosuppressant|C0021081
+immune suppressants|C0021081
+immune suppressant|C0021081
+immunosuppressive agent|C0021081
+immunosuppressant agent, nos|C0021081
+immunosuppressant agent|C0021081
+agent, immunosuppressive|C0021081
+immunosuppressive agents|C0021081
+immunosuppressants|C0021081
+agents, immunosuppressive|C0021081
+immunosuppressives|C0021081
+immunosuppressant agents|C0021081
+immunosuppressive|C0021081
+inflammatory reaction, nos|C0021368
+inflammatory reaction|C0021368
+inflammatory finding|C0021368
+inflammations|C0021368
+inflammation|C0021368
+inflammation nos|C0021368
+inflammation, nos|C0021368
+influenza nos|C0021400
+influenza|C0021400
+influenza in human|C0021400
+grippe|C0021400
+influenzas|C0021400
+influenza in humans|C0021400
+human flu|C0021400
+syndrome flu|C0021400
+influenza, human|C0021400
+influenza, nos|C0021400
+human influenza|C0021400
+flu, human|C0021400
+influenzas, human|C0021400
+flu syndrome|C0021400
+human influenzas|C0021400
+intravenous infusion procedures|C0021440
+infusion intravenous|C0021440
+intravenous administration|C0021440
+intravenous infusion, nos|C0021440
+parenteral infusion|C0021440
+parenteral infusion procedure|C0021440
+infusion, intravenous|C0021440
+ivi - intravenous infusion|C0021440
+infusions, intravenous|C0021440
+iv infusion|C0021440
+vein infusion|C0021440
+intravenous infusions|C0021440
+iv - intravenous infusion|C0021440
+ivi - intavenous infusion|C0021440
+intravenous infusion|C0021440
+administration intravenous|C0021440
+irritable symptom|C0022107
+irritable mood|C0022107
+irritable moods|C0022107
+mood irritable|C0022107
+fussiness|C0022107
+feeling irritated|C0022107
+mood, irritable|C0022107
+irritable|C0022107
+moods, irritable|C0022107
+feeling irritable|C0022107
+irritability|C0022107
+irritibility|C0022107
+eyes itchy|C0022281
+itching eyes|C0022281
+itchy eye|C0022281
+eye itch|C0022281
+eye itching|C0022281
+eyes itch|C0022281
+eyes itching|C0022281
+itching of eye|C0022281
+ocular itching|C0022281
+itchy eyes|C0022281
+eye pruritus|C0022281
+ocular pruritus|C0022281
+pruritus of eye|C0022281
+itching eye|C0022281
+ocular itch|C0022281
+ivermectin-containing product|C0022322
+ivermectinum|C0022322
+ivermectine|C0022322
+ivermectin|C0022322
+ivermectina|C0022322
+jaundice|C0022346
+icterus, nos|C0022346
+icterus nos|C0022346
+yellowing of the skin|C0022346
+jaundice, nos|C0022346
+icterus|C0022346
+yellow skin|C0022346
+jaundiced|C0022346
+jaundice nos|C0022346
+unspecified jaundice|C0022346
+icteric|C0022346
+kcs - keratoconjunctivitis sicca|C0022575
+sicca, keratoconjunctivitis|C0022575
+keratoconjunctivitis sicca|C0022575
+kerato conjunctivitis sicca|C0022575
+dry eyes|C0022575
+acute renal failures|C0022660
+acute kidney failure|C0022660
+acute renal shutdown|C0022660
+acute renal insufficiency|C0022660
+aki - acute kidney injury|C0022660
+acute renal failure, unspecified|C0022660
+renal shutdown acute|C0022660
+acute renal failure syndrome, nos|C0022660
+acute renal failure syndrome|C0022660
+arf - acute renal failure|C0022660
+syndrome acute renal failure|C0022660
+renal failure, acute|C0022660
+acute renal failure|C0022660
+renal failure acute|C0022660
+acute failure renal|C0022660
+kidney failures, acute|C0022660
+kidney failure, acute|C0022660
+acute and unspecified renal failure|C0022660
+failure kidney acute|C0022660
+kidney, failure, acute|C0022660
+failure acute renal|C0022660
+kidney failure acute|C0022660
+renal failures, acute|C0022660
+acute kidney failures|C0022660
+acute kidney injury|C0022660
+acute kidney failure, unspecified|C0022660
+acute failure kidney|C0022660
+renal insufficiency, acute|C0022660
+general laboratory procedure, nos|C0022885
+general laboratory procedure|C0022885
+tests|C0022885
+laboratory procedures|C0022885
+labs test|C0022885
+laboratory procedures and services|C0022885
+laboratory procedures -general|C0022885
+general laboratory procedures|C0022885
+lab test|C0022885
+labs testing|C0022885
+laboratory test, nos|C0022885
+laboratory procedure|C0022885
+laboratory testing|C0022885
+laboratory tests|C0022885
+laboratory test|C0022885
+lab tests|C0022885
+lab testing|C0022885
+general laboratory procedures and services|C0022885
+musculoskeletal leg pain|C0023222
+leg pain, nos|C0023222
+hindlimb pain|C0023222
+hindlimb painful|C0023222
+pain legs|C0023222
+pain in leg|C0023222
+leg pain|C0023222
+pain in unspecified lower leg|C0023222
+pain in lower limb nos|C0023222
+pains in legs|C0023222
+limb pain leg|C0023222
+lower leg pain|C0023222
+pain in lower limb|C0023222
+lower limb pain|C0023222
+lower extremity pain musculoskeletal|C0023222
+lethargy|C0023380
+demonstrated behavior lethargy|C0023380
+stuporous|C0023380
+listless|C0023380
+lethargy was observed|C0023380
+lethargic|C0023380
+demonstrates lethargy|C0023380
+torpid|C0023380
+diseases, liver|C0023895
+liver diseases|C0023895
+liver disorders|C0023895
+disease of liver, nos|C0023895
+diseases of the liver|C0023895
+liver disorder|C0023895
+liver disease|C0023895
+liver disease, unspecified|C0023895
+liver disease, nos|C0023895
+disorder of liver|C0023895
+diseases of liver|C0023895
+liver disease nos|C0023895
+fector hepaticus|C0023895
+hepatic disorders|C0023895
+disease of liver|C0023895
+disorder hepatic|C0023895
+hepatic disease nos|C0023895
+disease, liver|C0023895
+hepatic disease|C0023895
+hepatic disorder nos|C0023895
+hepatocellular disease|C0023895
+liver--diseases|C0023895
+hepatic disorder|C0023895
+liver diseases of|C0023895
+disease hepatocellular|C0023895
+unspecified disorder of liver|C0023895
+hepatic diseases|C0023895
+disorder liver|C0023895
+liver and intrahepatic bile duct disorder|C0023895
+hepatopathy|C0023895
+ld - liver disease|C0023895
+pains, low back|C0024031
+back pain lower back|C0024031
+low back pains|C0024031
+pain, lower back|C0024031
+low back pain|C0024031
+back pain, low|C0024031
+low backaches|C0024031
+back pains, low|C0024031
+backache lower|C0024031
+back ache, low|C0024031
+low backache|C0024031
+low back derangement syndrome|C0024031
+lower back pain|C0024031
+back aches, low|C0024031
+low back ache|C0024031
+low back syndrome|C0024031
+low back aches|C0024031
+back pain lumbar|C0024031
+back pain, lower|C0024031
+lumbago syndrome|C0024031
+dorsopathy low back pain|C0024031
+lumbar back pain|C0024031
+ache, low back|C0024031
+lower back pains|C0024031
+aches, low back|C0024031
+lumbago nos|C0024031
+lumbago|C0024031
+pain, low back|C0024031
+lumbalgia|C0024031
+nonspecific pain in the lumbar region|C0024031
+lbp - low back pain|C0024031
+backache, low|C0024031
+backaches, low|C0024031
+pains, lower back|C0024031
+lower backache|C0024031
+lumbar pain|C0024031
+back pains, lower|C0024031
+lumbar pains|C0024031
+breast nodules|C0024103
+breast lump nos|C0024103
+unspecified lump in breast|C0024103
+breast nodule|C0024103
+lump or mass in breast|C0024103
+breast irregular nodularity|C0024103
+lump in breast|C0024103
+breast masses|C0024103
+breast lump|C0024103
+breast lump or mass|C0024103
+breast mass nos|C0024103
+mammary gland mass|C0024103
+lump or mass of breast|C0024103
+breast mass|C0024103
+breasts lumps|C0024103
+nodule breast|C0024103
+lumpy breasts|C0024103
+lumpy breast|C0024103
+breast mass or lump|C0024103
+breast lumps|C0024103
+breast lumpy|C0024103
+mass in breast|C0024103
+disease, lung|C0024115
+lung disorders|C0024115
+lung disorder nos|C0024115
+lung disorder|C0024115
+lung diseases|C0024115
+disorders lung|C0024115
+pneumopathy|C0024115
+lungs--diseases|C0024115
+lung disorder, nos|C0024115
+diseases of the lung|C0024115
+disorders pulmonary|C0024115
+pulmonary disorders|C0024115
+lung disease nos|C0024115
+pulmonary disorder|C0024115
+disease, pulmonary|C0024115
+pulmonary disease, nos|C0024115
+pulmonary disease|C0024115
+diseases lungs|C0024115
+diseases, lung|C0024115
+lung disease|C0024115
+diseases, pulmonary|C0024115
+disorder pulmonary|C0024115
+disease of lung|C0024115
+disease of lung, nos|C0024115
+disorder lung|C0024115
+disorder of lung|C0024115
+diseases pulmonary|C0024115
+pulmonary diseases|C0024115
+malaise and fatigue|C0024528
+fatigue malaise|C0024528
+malaise fatigue|C0024528
+face masks|C0024861
+masks|C0024861
+black stools|C0025222
+melenas|C0025222
+stool tarry|C0025222
+melena/black tarry stools|C0025222
+stool black|C0025222
+altered blood passed per rectum|C0025222
+altered blood in stool|C0025222
+black stool|C0025222
+stool color black|C0025222
+tarry stool|C0025222
+dark stools|C0025222
+melaena|C0025222
+black, tarry stool|C0025222
+tarry stools|C0025222
+melena|C0025222
+heavy period|C0025323
+bleeding menstrual heavy|C0025323
+menstrual flow excessive|C0025323
+hypermenorrhea|C0025323
+menstruation excessive|C0025323
+prolonged heavy periods|C0025323
+heavy prolonged periods|C0025323
+menstrual bleeding, heavy|C0025323
+heavy periods|C0025323
+menstruation increased|C0025323
+heavy periods nos|C0025323
+heavy menstrual bleeding|C0025323
+hypermenorrhoea|C0025323
+menorrhagia|C0025323
+abnormally heavy periods|C0025323
+excessive menstrual flow|C0025323
+menorrhagia nos|C0025323
+excessive bleeding during period|C0025323
+abnormally heavy bleeding during menstruation|C0025323
+heavy menstruation|C0025323
+excessive menstruation|C0025323
+heavy menstrual periods|C0025323
+flooding during periods|C0025323
+heavy menstrual period|C0025323
+excessive menses|C0025323
+menses regular with excessive bleeding|C0025323
+excessive menstrual bleeding|C0025323
+profuse menstrual flow|C0025323
+period spotting|C0025874
+break-through bleeding|C0025874
+spotting periods|C0025874
+duh - dysfunctional uterine hemorrhage|C0025874
+mid-cycle bleeding|C0025874
+uterine bleeding, dysfunctional|C0025874
+bleeding unrelated to menstrual cycle|C0025874
+bleeding breakthrough|C0025874
+uterine dysfunctional bleeding|C0025874
+spotting|C0025874
+uterine bleeding dysfunctional|C0025874
+dub - dysfunctional uterine bleeding|C0025874
+bleeding, breakthrough|C0025874
+bleeding dub dysfunctional uterine|C0025874
+periods spotting|C0025874
+imb - intermenstrual bleeding|C0025874
+bleeding dysfunctional uterine|C0025874
+duh - dysfunctional uterine haemorrhage|C0025874
+abnormal uterus bleeding|C0025874
+dysfunctional uterine haemorrhage|C0025874
+bleed period|C0025874
+irregular intermenstrual bleeding|C0025874
+dysfunctional uterine bleed|C0025874
+dysfunctional uterine bleeding|C0025874
+breakthrough bleeding|C0025874
+intermenstrual bleeding|C0025874
+spotting between periods|C0025874
+menstrual spotting|C0025874
+bleeding period|C0025874
+intermenstrual bleeding - irregular|C0025874
+periods bleeding|C0025874
+bleeding between periods|C0025874
+bleeding periods|C0025874
+spotting between menses|C0025874
+metrorrhagia|C0025874
+bleeding intermenstrual|C0025874
+dysfunctional uterine bleedings|C0025874
+dysfunctional uterine hemorrhage|C0025874
+muscle cramp, nos|C0026821
+cramps, muscular|C0026821
+cramp in muscle|C0026821
+spasm|C0026821
+cramping|C0026821
+muscular cramp|C0026821
+cramps muscles|C0026821
+cramps|C0026821
+cramp in muscle, nos|C0026821
+cramping muscles|C0026821
+muscular cramps|C0026821
+muscle cramp|C0026821
+cramp, nos|C0026821
+cramp, muscular|C0026821
+muscle cramping|C0026821
+cramp, muscle|C0026821
+cramp|C0026821
+cramp muscles|C0026821
+muscles cramps|C0026821
+cramp muscle|C0026821
+muscle cramps|C0026821
+cramps, muscle|C0026821
+spasticity, muscle|C0026838
+muscle spasm - tone|C0026838
+muscular spasticity|C0026838
+muscles spasticity|C0026838
+spasticity, muscular|C0026838
+spastic|C0026838
+muscle spasticity|C0026838
+spasticity was noted|C0026838
+involuntary muscle stiffness, contraction, or spasm|C0026838
+spasticity|C0026838
+spasticity muscle|C0026838
+nearsightedness|C0027092
+near sightedness|C0027092
+short-sighted|C0027092
+myopia|C0027092
+myopic|C0027092
+close sighted|C0027092
+nearsighted|C0027092
+short sight|C0027092
+near-sightedness|C0027092
+short sighted|C0027092
+near vision|C0027092
+disorder myopia|C0027092
+myopias|C0027092
+short sightedness|C0027092
+near sighted|C0027092
+near sight|C0027092
+nearsightednesses|C0027092
+shortness of sight|C0027092
+feeling queasy|C0027497
+feel sick|C0027497
+nauseated|C0027497
+feeling sick|C0027497
+nausea|C0027497
+nauseating|C0027497
+nauseas|C0027497
+nauseous|C0027497
+nausea symptom|C0027497
+sick feeling|C0027497
+nausea symptoms|C0027497
+nausea nos|C0027497
+feeling bilious|C0027497
+observation of nausea|C0027497
+symptom nausea|C0027497
+rndx nausea|C0027497
+queasy|C0027497
+symptoms nausea|C0027497
+c/o - nausea|C0027497
+night sweats|C0028081
+night sweat|C0028081
+nocturnal hyperhidrosis|C0028081
+nights sweats|C0028081
+sweating heavily at night|C0028081
+nocturnal perspiration|C0028081
+night sweating|C0028081
+morbid obesity|C0028756
+obesity morbid due to excess calories|C0028756
+obesities, severe|C0028756
+morbid obesities|C0028756
+obesities, morbid|C0028756
+obesity extreme|C0028756
+obesity severe|C0028756
+obesity morbid|C0028756
+severe obesity|C0028756
+obesity, severe|C0028756
+severe obesities|C0028756
+obesity, morbid|C0028756
+obstruction nos|C0028778
+obstruction, nos|C0028778
+block, nos|C0028778
+block|C0028778
+obstruction/occlusion|C0028778
+obstructions|C0028778
+occlusions|C0028778
+occluded|C0028778
+occlusion|C0028778
+occluding|C0028778
+blocks|C0028778
+obstruction|C0028778
+blocked|C0028778
+decreased urine volume|C0028961
+decreased urine output|C0028961
+urine volume, decreased|C0028961
+volume urine decreased|C0028961
+passes too little urine|C0028961
+oligouria|C0028961
+urine volume deficient|C0028961
+urine output low|C0028961
+decreased output urine|C0028961
+decrease urination|C0028961
+oligurias|C0028961
+oliguria|C0028961
+urine production scanty|C0028961
+urination decrease|C0028961
+low urine output|C0028961
+urine output decreased|C0028961
+organ donation|C0029216
+organ transplant|C0029216
+organ transplant nos|C0029216
+organ grafting|C0029216
+organ transplanting|C0029216
+organ graftings|C0029216
+clinical, transplantation, organ|C0029216
+graftings, organ|C0029216
+transplantation, organ|C0029216
+trnsplnt.organ|C0029216
+grafting, organ|C0029216
+organ donation procedure|C0029216
+organ transplants|C0029216
+organ transplantation|C0029216
+organ transplantations|C0029216
+transplantations, organ|C0029216
+pure oxygen|C0030054
+o element|C0030054
+oxygen 16|C0030054
+o2 element|C0030054
+oxygen usp|C0030054
+o2 - oxygen|C0030054
+elemental oxygen|C0030054
+oxygen, nos|C0030054
+oxygen-16|C0030054
+chemical oxygen|C0030054
+oxygen-containing product|C0030054
+oxygen|C0030054
+part hurts|C0030193
+types of pain|C0030193
+pain symptoms|C0030193
+painful|C0030193
+pain, unspecified|C0030193
+rndx unspecified pain|C0030193
+sense of pain|C0030193
+pains|C0030193
+pain, nos|C0030193
+pain nos|C0030193
+pain observations|C0030193
+dolour|C0030193
+unspecified pain|C0030193
+dolor|C0030193
+tingling|C0030554
+paresthesias|C0030554
+pins and needles feeling|C0030554
+paraesthesia|C0030554
+abnormal sensation|C0030554
+parasthesias|C0030554
+paresthesia|C0030554
+parasthesia|C0030554
+paraesthesias|C0030554
+pain pelvic|C0030794
+pelvis pain|C0030794
+pains, pelvic|C0030794
+pain in pelvis|C0030794
+pain, pelvic|C0030794
+pelvis painful|C0030794
+pelvic pains|C0030794
+pelvic pain nos|C0030794
+pelvic pain|C0030794
+inflamed throats|C0031350
+irritation of the throat|C0031350
+soreness throat|C0031350
+pharyngitides|C0031350
+infections throat|C0031350
+pharyngeal inflammation|C0031350
+infection throat|C0031350
+pharyngitis|C0031350
+pharyngitis nos|C0031350
+throat soreness|C0031350
+inflammation throat|C0031350
+pharynx inflammation|C0031350
+throat inflamed|C0031350
+throat inflammation|C0031350
+inflammation of pharynx|C0031350
+inflamed throat|C0031350
+throat infection|C0031350
+sore throat|C0031350
+inflammation of the throat|C0031350
+pharyngitis, nos|C0031350
+pharynx inflamed|C0031350
+pneumonia, viral|C0032310
+viral pneumonia, unspecified|C0032310
+pneumonias, viral|C0032310
+pneumonia viral nos|C0032310
+pneumonia, abacterial|C0032310
+pneumonia viral|C0032310
+viral pneumonitis|C0032310
+viral pneumonia|C0032310
+viral pneumonia, nos|C0032310
+viral pneumonias|C0032310
+increased urine output|C0032617
+polyuria nos|C0032617
+urine output high|C0032617
+polyuria|C0032617
+polyurias|C0032617
+urine volume increased|C0032617
+diuresis excessive|C0032617
+passes too much urine|C0032617
+polyuric state|C0032617
+urine volume, increased|C0032617
+high urine output|C0032617
+polyuric state, nos|C0032617
+frequent emptying of full-bladder|C0032617
+increased urine volume|C0032617
+post-nasal drip|C0032781
+discharge from back of nose|C0032781
+postnasal drip|C0032781
+postnasal catarrh|C0032781
+postnasal discharge|C0032781
+drip post-nasal|C0032781
+drip postnasal|C0032781
+pnd - postnasal drip|C0032781
+posterior rhinorrhoea|C0032781
+discharge of nasopharynx|C0032781
+dripping postnasal|C0032781
+drip post nasal|C0032781
+drip or drainage down throat from above|C0032781
+posterior rhinorrhea|C0032781
+drip, postnasal|C0032781
+posterior nasal drip|C0032781
+discharge from nasopharynx|C0032781
+1,4-pregnadiene-17,21-diol-3,11,20-trione|C0032952
+17,21-dihydroxypregna-1,4-diene-3,11,20-trione|C0032952
+delta.1-cortisone|C0032952
+deltadehydrocortisone|C0032952
+prednisone-containing product|C0032952
+delta-cortisone|C0032952
+dehydrocortisone|C0032952
+prednisonum|C0032952
+deltacortisone|C0032952
+prednisona|C0032952
+1, 2-dehydrocortisone|C0032952
+deltadehydrocortisone preparation|C0032952
+metacortandracin|C0032952
+deltacortisone preparation|C0032952
+delta 1-cortisone|C0032952
+prednisone preparation|C0032952
+pregna-1,4-diene-3,11,20-trione, 17,21-dihydroxy|C0032952
+prednisone|C0032952
+1,2-dehydrocortisone|C0032952
+headaches, tension|C0033893
+tension headache nos|C0033893
+headaches, stress|C0033893
+tension headache|C0033893
+muscle tension headache|C0033893
+psychogenic cephalalgia|C0033893
+headaches tension|C0033893
+tension-type headaches|C0033893
+tension headaches|C0033893
+headache, tension-type|C0033893
+tension type headache|C0033893
+headaches muscle tension|C0033893
+headaches, idiopathic|C0033893
+headache, tension|C0033893
+headache, stress|C0033893
+psychogenic headaches|C0033893
+headaches tension-type|C0033893
+psychogenic headache|C0033893
+tension-type headache, unspecified|C0033893
+headaches, tension-type|C0033893
+stress headaches|C0033893
+idiopathic headaches|C0033893
+idiopathic headache|C0033893
+stress headache|C0033893
+headaches stress|C0033893
+tension type headache, unspecified|C0033893
+headache, idiopathic|C0033893
+tension-type headache|C0033893
+headaches, psychogenic|C0033893
+headache stress|C0033893
+headache tension|C0033893
+headache, psychogenic|C0033893
+headaches tensions|C0033893
+headaches tension type|C0033893
+muscle contraction headache syndrome|C0033893
+atypical psychosis|C0033975
+general psychoses|C0033975
+psychotic disorder nos|C0033975
+psychotic disorder, nos|C0033975
+psychosis|C0033975
+atypical psychoses|C0033975
+psychotic|C0033975
+disorder, psychotic|C0033975
+mental disorder|C0033975
+psychosis, atypical|C0033975
+unspecified psychosis|C0033975
+psychotic disorders|C0033975
+psychotic disorder|C0033975
+psychosis atypical|C0033975
+psychoses|C0033975
+psychosis nos|C0033975
+disorders, psychotic|C0033975
+psychosis, nos|C0033975
+embolisms, pulmonary|C0034065
+pe - pulmonary embolism|C0034065
+pulmonary embolus|C0034065
+embolism, pulmonary|C0034065
+pulmonary artery embolism|C0034065
+emboli, pulmonary|C0034065
+lung embolism|C0034065
+embolus pulmonary|C0034065
+embolism pulmonary|C0034065
+pulmonary embolisms|C0034065
+pulmonary emboli|C0034065
+blood clots in the lung|C0034065
+blood clot in lungs|C0034065
+pulmonary embolism|C0034065
+pulmonary embolism nos|C0034065
+embolism lung|C0034065
+blood clot in artery of lung|C0034065
+rectum painful|C0034886
+rectum pain|C0034886
+pains rectum|C0034886
+pain in rectum|C0034886
+pain rectum|C0034886
+proctalgia|C0034886
+rectal pain|C0034886
+sore rectum|C0034886
+rectalgia|C0034886
+pains rectal|C0034886
+pain rectal|C0034886
+rectal sore|C0034886
+rectal soreness|C0034886
+syndrome, wittmaack ekbom|C0035258
+legs restless|C0035258
+syndrome, wittmaack-ekbom|C0035258
+willis ekbom disease|C0035258
+willis ekbom syndrome|C0035258
+willis-ekbom disease|C0035258
+willis-ekbom syndrome|C0035258
+wittmaack ekbom syndrome|C0035258
+syndrome, restless leg|C0035258
+disease, willis ekbom|C0035258
+disease, willis-ekbom|C0035258
+wittmaack-ekbom syndrome|C0035258
+ekbom syndrome|C0035258
+restless leg disorder|C0035258
+syndrome, willis-ekbom|C0035258
+restless legs|C0035258
+syndrome restless legs|C0035258
+restless leg syndrome|C0035258
+restless legs syndrome|C0035258
+syndrome, willis ekbom|C0035258
+ekbom|C0035258
+ekbom's syndrome|C0035258
+restless leg|C0035258
+rhonchi/wheezing|C0035508
+rhonchi|C0035508
+rhonchi, nos|C0035508
+rhonchus|C0035508
+auscultation rhonchi|C0035508
+wheeze - rhonchi|C0035508
+rhonchus, nos|C0035508
+rhonchi were heard|C0035508
+disorder predictors|C0035648
+risk factor nos|C0035648
+risk factors|C0035648
+risk characteristics|C0035648
+risk indicator|C0035648
+vulnerability factors|C0035648
+risk factor|C0035648
+factor, risk|C0035648
+factor risks|C0035648
+risk indicators|C0035648
+disorder schizoaffective|C0036337
+schizoaffective disorders|C0036337
+schizoaffective disorder, unspecified|C0036337
+schizoaffective-type schizophrenia|C0036337
+schizophrenia, schizo-affective type|C0036337
+affective disorder schizo|C0036337
+schizoaffective schizophrenia|C0036337
+schizo affective schizophrenia|C0036337
+schizo affective disorder unspecified|C0036337
+schizo affective disorder|C0036337
+schizo-affective type|C0036337
+disorder, schizoaffective|C0036337
+schizoaffective disorder|C0036337
+schizo-affective psychosis|C0036337
+disorders, schizoaffective|C0036337
+schizoaffective disorder, nos|C0036337
+schizophrenia schizoaffective|C0036337
+schizo-affective type schizophrenia|C0036337
+schizoaffective psychosis nos|C0036337
+schizoaffective psychosis|C0036337
+schizophreniform psychosis, affective type|C0036337
+fitting|C0036572
+convulsion/seizure|C0036572
+convulsion|C0036572
+fit - convulsion|C0036572
+seizures|C0036572
+fitted|C0036572
+fit's|C0036572
+convulsion, nos|C0036572
+seizure, nos|C0036572
+fits - convulsions|C0036572
+fit, nos|C0036572
+convulsions|C0036572
+epileptic seizure|C0036572
+seizure|C0036572
+fits nos|C0036572
+convulsions nos|C0036572
+seizure d|C0036572
+seizure nos|C0036572
+septicemia, nos|C0036690
+sepsis syndrome|C0036690
+sepsis|C0036690
+septicaemia, unspecified|C0036690
+poisoning, blood|C0036690
+poisoning blood|C0036690
+septicemia|C0036690
+septicaemia, nos|C0036690
+septicaemia nos|C0036690
+septicemia nos|C0036690
+infection in blood stream|C0036690
+unspecified septicemia|C0036690
+poisonings, blood|C0036690
+unspecified septicaemia|C0036690
+septicemia, unspecified|C0036690
+blood poisonings|C0036690
+toxemia|C0036690
+blood poisoning|C0036690
+blood poisoning, nos|C0036690
+septicemias|C0036690
+septicaemia|C0036690
+serology nos|C0036743
+serology studies|C0036743
+serologic test, nos|C0036743
+serologic tests|C0036743
+serological test|C0036743
+serology tests|C0036743
+serological tests|C0036743
+test, serological|C0036743
+serologic test|C0036743
+serology test|C0036743
+tests, serologic|C0036743
+test, serologic|C0036743
+tests, serological|C0036743
+serology|C0036743
+sepsis-associated hypotension|C0036983
+septicemic shock|C0036983
+septicaemic shock|C0036983
+septic shock|C0036983
+shock septic|C0036983
+shock, septic|C0036983
+pain, shoulder|C0037011
+pain in unspecified shoulder|C0037011
+shoulder pains|C0037011
+shoulder pain musculoskeletal|C0037011
+pains, shoulder|C0037011
+musculoskeletal shoulder pain|C0037011
+pain in shoulder|C0037011
+shoulder region pain|C0037011
+shoulder pain|C0037011
+symptoms and signs|C0037088
+finding|C0037088
+clinical finding|C0037088
+observable entity|C0037088
+sign/symptom|C0037088
+signs and symptoms|C0037088
+sign and symptom|C0037088
+clinical findings|C0037088
+respiratory symptom|C0037090
+respiratory symptoms|C0037090
+symptom or complaint of the respiratory system|C0037090
+respiratory signs symptoms|C0037090
+pulmonary symptoms|C0037090
+signs and symptoms, respiratory|C0037090
+sinus headaches|C0037195
+sinus headache|C0037195
+headaches sinus|C0037195
+headache sinus|C0037195
+disorders lesions skin|C0037284
+lesion skin|C0037284
+disorder lesions skin|C0037284
+skin lesion nos|C0037284
+lesions skin|C0037284
+skin lesion|C0037284
+skin lesion, nos|C0037284
+skin lesions|C0037284
+physical findings.skin ulcer|C0037299
+ulcers, skin|C0037299
+cutaneous ulcer|C0037299
+ulcer of skin nos|C0037299
+sore on skin|C0037299
+ulcer of skin, nos|C0037299
+skin ulcer|C0037299
+open skin sore|C0037299
+cutaneous ulceration|C0037299
+skin ulceration|C0037299
+ulcer skin|C0037299
+physical findings skin ulcer|C0037299
+skin sores|C0037299
+ulcer, skin|C0037299
+skin ulcerations|C0037299
+skin ulcer nos|C0037299
+skin ulcers|C0037299
+cutaneous ulcers|C0037299
+sleep disturbances|C0037317
+sleeping disturbances|C0037317
+disturbance in sleep behaviour|C0037317
+unspecified sleep disturbance|C0037317
+disturbed sleep|C0037317
+difficulty sleeping|C0037317
+sleep disturbed|C0037317
+disturbance in sleep behavior, nos|C0037317
+sleep dysfunction|C0037317
+sleep disturbance, unspecified|C0037317
+problems with sleeping|C0037317
+sleep disturbance|C0037317
+disturbance in sleep behavior|C0037317
+disturbance in sleep behaviour, nos|C0037317
+disturbances, sleep|C0037317
+trouble sleeping|C0037317
+smokings|C0037369
+smokes|C0037369
+smoking|C0037369
+sneeze|C0037383
+sneezes|C0037383
+observation of sneezing|C0037383
+sneezings|C0037383
+sneezing|C0037383
+finding of sneezing|C0037383
+sneezing symptom|C0037383
+sneezing symptoms|C0037383
+snored|C0037384
+snoring|C0037384
+snoring was observed|C0037384
+snorings|C0037384
+snores|C0037384
+snoring symptom|C0037384
+observation of snoring|C0037384
+finding of snoring|C0037384
+snoring symptoms|C0037384
+snore|C0037384
+soft tissue swelling|C0037580
+soft swelling tissue|C0037580
+sleepwalking|C0037672
+sleepwalk|C0037672
+sleepwalking disorder nonorganic|C0037672
+somnambulism|C0037672
+nonorganic sleepwalking disorder|C0037672
+sleepwalking disorder|C0037672
+lunatism|C0037672
+sleep walk|C0037672
+sleep walking disorder|C0037672
+nocturnal wandering|C0037672
+wandering, nocturnal|C0037672
+somnambulation|C0037672
+sleep walking|C0037672
+sleep walking disorders|C0037672
+sleeping walking|C0037672
+sleepwalked|C0037672
+somnanbulism|C0037672
+steroid compound|C0038317
+steroid|C0038317
+steroids|C0038317
+steroid, nos|C0038317
+steroid-containing product|C0038317
+traumatic neuroses|C0038436
+combat fatigue|C0038436
+stress disorder, posttraumatic|C0038436
+posttraumatic stress disorder nos|C0038436
+stress disorders, post-traumatic|C0038436
+posttraumatic stress disorder, nos|C0038436
+stress disorder, post traumatic|C0038436
+combat neurosis|C0038436
+posttraumatic neuroses|C0038436
+stress disorders, posttraumatic|C0038436
+posttraumatic stress disorder|C0038436
+neuroses, post traumatic|C0038436
+posttraumatic stress disorders|C0038436
+traumatic neurosis|C0038436
+post-traumatic stress disorder|C0038436
+ptsd - post-traumatic stress disorder|C0038436
+disorder, post-traumatic stress|C0038436
+post-traumatic neuroses|C0038436
+neuroses, post-traumatic|C0038436
+neuroses, posttraumatic|C0038436
+post traumatic stress disorder|C0038436
+stress disorder, post-traumatic|C0038436
+post traumatic stress syndrome|C0038436
+post-traumatic stress syndrome|C0038436
+post-traumatic stress disorders|C0038436
+post-traumatic stress disorder, unspecified|C0038436
+neurosis, traumatic|C0038436
+post traumatic stress disorders|C0038436
+life stress|C0038443
+life stresses|C0038443
+stresses, life|C0038443
+stressors, psychological|C0038443
+psychological stressor|C0038443
+stresses, psychological|C0038443
+stressor, psychological|C0038443
+stress, life|C0038443
+stress mental|C0038443
+psychological stress|C0038443
+mental stress|C0038443
+psychological stresses|C0038443
+stress, psychological|C0038443
+stress, psychologic|C0038443
+stress, conflict, anxiety|C0038443
+psychologic stress|C0038443
+psychological stressors|C0038443
+vascular accident, brain|C0038454
+cerebral strokes|C0038454
+cerebrovascular apoplexy|C0038454
+stroke, neurological|C0038454
+brain vascular accident|C0038454
+cerebral stroke|C0038454
+stroke/cerebrovascular accident|C0038454
+cerebrovascular accidents|C0038454
+undetermined stroke|C0038454
+cerebrovascular accident nos|C0038454
+vascular brain accident|C0038454
+cerebral vascular accident|C0038454
+cerebral apoplexy, nos|C0038454
+cerebral vascular events|C0038454
+cva, nos|C0038454
+accident cerebrovascular|C0038454
+cerebrovascular accident|C0038454
+cerebrovascular accident, nos|C0038454
+brain attack|C0038454
+stroke cerebral|C0038454
+apoplexy, cerebral|C0038454
+stroke, nos|C0038454
+stroke, not specified as hemorrhage or infarction|C0038454
+stroke/cva|C0038454
+apoplexy|C0038454
+apoplexy, nos|C0038454
+strokes, cerebral|C0038454
+cerebrovascular stroke|C0038454
+stroke nos|C0038454
+strokes|C0038454
+cerebrovascular strokes|C0038454
+cva - cerebrovascular accident|C0038454
+brain vascular accidents|C0038454
+stroke, cerebrovascular|C0038454
+strokes, cerebrovascular|C0038454
+cva nos|C0038454
+stroke|C0038454
+stroke, cerebral|C0038454
+stroke, not specified as haemorrhage or infarction|C0038454
+vascular cerebral accident|C0038454
+apoplexy, cerebrovascular|C0038454
+stroke syndrome|C0038454
+vascular accidents, brain|C0038454
+alcohol or other drugs use disorders|C0038586
+alcohol or other drug disorder|C0038586
+disorder substance use|C0038586
+alcohol and other drug use pathology|C0038586
+disorder, substance use|C0038586
+aod use disorders|C0038586
+substance use disorder|C0038586
+alcohol or other drug use disorders|C0038586
+chemical use disorders|C0038586
+substance use disorders|C0038586
+sweating|C0038990
+sweating, nos|C0038990
+sweating observable|C0038990
+sweats|C0038990
+sweat|C0038990
+sweating symptoms|C0038990
+perspiration|C0038990
+sweating symptom|C0038990
+perspiring|C0038990
+hidrosis|C0038990
+hidropoiesis|C0038990
+sweating, function|C0038990
+perspired|C0038990
+bulge|C0038999
+swellings|C0038999
+part of body puffy|C0038999
+observation of swelling|C0038999
+tumefactions|C0038999
+swelling, nos|C0038999
+tumescence|C0038999
+tumefaction|C0038999
+swells|C0038999
+bulge, nos|C0038999
+swell|C0038999
+swollen|C0038999
+swelling nos|C0038999
+bulging|C0038999
+swelled|C0038999
+part of body swollen|C0038999
+swelling|C0038999
+collapse fleeting|C0039070
+swoons|C0039070
+swooning|C0039070
+faint|C0039070
+syncope/fainting|C0039070
+fainting spell|C0039070
+syncopal attack|C0039070
+syncope and collapse|C0039070
+syncope fainting|C0039070
+pass out|C0039070
+fainting syncope|C0039070
+falling out|C0039070
+faints|C0039070
+faintness|C0039070
+fainting/syncope|C0039070
+disorders syncope|C0039070
+blackout|C0039070
+passed out|C0039070
+syncope|C0039070
+syncope, nos|C0039070
+a faint|C0039070
+falls out|C0039070
+swoon|C0039070
+syncope collapse|C0039070
+syncopes|C0039070
+fainting episodes|C0039070
+out passed|C0039070
+collapse syncope|C0039070
+syncope symptom|C0039070
+attacks fainting|C0039070
+fainting attacks|C0039070
+out passes|C0039070
+fainting spells|C0039070
+syncope / fainting|C0039070
+fainting|C0039070
+syncope attack|C0039070
+out pass|C0039070
+collapse transient|C0039070
+attacks syncopal|C0039070
+fainted|C0039070
+pain in testes|C0039591
+teste pain|C0039591
+testicle pain|C0039591
+pain in the testes|C0039591
+testes pain|C0039591
+pain in testicle|C0039591
+orchidalgia|C0039591
+pain in testis|C0039591
+orchidalgia, nos|C0039591
+pain of testes|C0039591
+testicular pain|C0039591
+orchialgia|C0039591
+testis pain|C0039591
+orchidodynia, nos|C0039591
+pain in testicles|C0039591
+testicle painful|C0039591
+ache in testis|C0039591
+orchialgia, nos|C0039591
+testicular pain, nos|C0039591
+orchidodynia|C0039591
+thrombocytopenia, nos|C0040034
+thrombopenia|C0040034
+thrombocytopenias|C0040034
+thrombocytopaenia|C0040034
+thrombopenias|C0040034
+thrombocytopenic disorder|C0040034
+thrombocytopenia|C0040034
+thrombocytopenia, unspecified|C0040034
+thrombosis nos|C0040053
+thrombosed|C0040053
+thrombotic disorder|C0040053
+thromboses|C0040053
+thrombosis, nos|C0040053
+thrombosis|C0040053
+tinnitus aurium|C0040264
+observation of tinnitus|C0040264
+ringing buzzing tinnitus|C0040264
+ringing in ear|C0040264
+ringing in ears|C0040264
+noises in head|C0040264
+ringing in the ear|C0040264
+ringing in the ears|C0040264
+symptoms tinnitus|C0040264
+ears ring|C0040264
+noises in ear|C0040264
+ear ringing sound|C0040264
+ringing of ears|C0040264
+ringing-buzzing-tinnitus|C0040264
+ears noises|C0040264
+tinnitus, unspecified ear|C0040264
+ear noise|C0040264
+tinnitus|C0040264
+ear noises|C0040264
+tinnitus, unspecified|C0040264
+ears ringing|C0040264
+ear ringing|C0040264
+ringing/buzzing/tinnitus|C0040264
+tinnitus, nos|C0040264
+noise in ears|C0040264
+tinnitus, ringing/buzzing ear|C0040264
+tremor, unspecified|C0040822
+trembled|C0040822
+trembles|C0040822
+shaking/tremors|C0040822
+tremor nos|C0040822
+quivers|C0040822
+shake|C0040822
+the shakes|C0040822
+shaking|C0040822
+tremors|C0040822
+trembling|C0040822
+d tremors|C0040822
+tremor, nos|C0040822
+tremors as symptom|C0040822
+involuntary shaking|C0040822
+quiver|C0040822
+involuntary shaking or trembling movements|C0040822
+motor exam involuntary movements tremor trembles|C0040822
+shaking all over|C0040822
+shakes|C0040822
+tremor|C0040822
+has a tremor|C0040822
+quivering|C0040822
+ulcer lesion|C0041582
+ulcer|C0041582
+ulcerates|C0041582
+ulceration|C0041582
+ulcer nos|C0041582
+ulcerating|C0041582
+ulcerative|C0041582
+ulcerations|C0041582
+lesions ulcerative|C0041582
+ulceration, nos|C0041582
+lesions ulcer|C0041582
+ulcerative lesion, nos|C0041582
+ulcer, nos|C0041582
+ulcus, nos|C0041582
+ulcus|C0041582
+ulcers|C0041582
+ulcerative lesion|C0041582
+ulcerated|C0041582
+ulcer - lesion|C0041582
+ulcerate|C0041582
+lesions ulcers|C0041582
+ulceratives|C0041582
+depressions, unipolar|C0041696
+unipolar depressive illness|C0041696
+major depressive disorder|C0041696
+unipolar depression|C0041696
+depression unipolar|C0041696
+unipolar depressions|C0041696
+major depression|C0041696
+depression, unipolar|C0041696
+enuresis|C0042024
+urinary incontinence, unspecified|C0042024
+urinary loss of control|C0042024
+urinary incontinences|C0042024
+urinary incontinence|C0042024
+urine leaking|C0042024
+absence of bladder continence|C0042024
+weak bladder|C0042024
+unable to restrain urination|C0042024
+loss of bladder control|C0042024
+lack of bladder control|C0042024
+ui - urinary incontinence|C0042024
+unspecified urinary incontinence|C0042024
+loss of control of urination|C0042024
+leaking urine|C0042024
+bladder continence, absence|C0042024
+leaking of urine|C0042024
+bladder control loss|C0042024
+unable to hold urine|C0042024
+incontinence urinary|C0042024
+bladder incontinence|C0042024
+incontinent of urine|C0042024
+unable to hold fluids|C0042024
+unable to control bladder|C0042024
+incontinence of urine|C0042024
+urinary bladder incontinence|C0042024
+unable to prevent bladder emptying|C0042024
+urine leak|C0042024
+urine incontinent|C0042024
+involuntary urination|C0042024
+urine incontinence|C0042024
+incontinent bladder|C0042024
+bladder incontinent|C0042024
+incontinence, urinary|C0042024
+micturition involuntary|C0042024
+urination involuntary|C0042024
+incontinence urine|C0042024
+genuine stress incontinence|C0042025
+stress urinary incontinence|C0042025
+si - stress incontinence|C0042025
+stress incontinence|C0042025
+urinary incontinence stress|C0042025
+urinary incontinence, stress|C0042025
+incontinence stressed urinary|C0042025
+stress incontinence genuine|C0042025
+stress bladder incontinence|C0042025
+gsi - genuine stress incontinence|C0042025
+incontinence when straining|C0042025
+stress incontinence, urinary|C0042025
+incontinence urinary stress|C0042025
+urinary stress incontinence|C0042025
+bladder incontinence, stress|C0042025
+incontinence, urinary stress|C0042025
+incontinence stress urinary|C0042025
+rndx stress urinary incontinence|C0042025
+incontinence stress|C0042025
+stress incontinence of urine|C0042025
+urticated rash|C0042109
+hived|C0042109
+rash nettle|C0042109
+urticaria, unspecified|C0042109
+urtication|C0042109
+urticaria nos|C0042109
+urticarial|C0042109
+hiving|C0042109
+hives nos|C0042109
+urticarias|C0042109
+nettles rash|C0042109
+urticaria|C0042109
+unspecified urticaria|C0042109
+hives|C0042109
+rash urticarial|C0042109
+nettle rash|C0042109
+urticarial rash|C0042109
+vaccination records|C0042196
+inoculations - prophylactic|C0042196
+immunization|C0042196
+vaccin|C0042196
+vaccinations|C0042196
+vaccination, nos|C0042196
+vaccination nos|C0042196
+vaccination|C0042196
+immunisation|C0042196
+prophylactic vaccination|C0042196
+active immunization|C0042196
+inoculation, nos|C0042196
+inoculation|C0042196
+inoculations|C0042196
+therapeutic vaccine|C0042210
+vaccine therapy|C0042210
+therapeutic vaccine, nos|C0042210
+vaccine, nos|C0042210
+therapeutic vaccines|C0042210
+vaccine|C0042210
+vaccine product|C0042210
+vaccineentitytype|C0042210
+vaccines|C0042210
+subjective vertigo|C0042571
+rotatory vertigo|C0042571
+dizziness|C0042571
+head spinning|C0042571
+head revolving round|C0042571
+systematic vertigo|C0042571
+dizzy spell|C0042571
+vertigo|C0042571
+sensation, spinning|C0042571
+rotation of self|C0042571
+head revolving around|C0042571
+vertigo nos|C0042571
+subjective vertigos|C0042571
+feel i'm spinning round|C0042571
+vertigo, nos|C0042571
+vertigo, subjective|C0042571
+vertigos|C0042571
+vertigos, subjective|C0042571
+spinning dizziness|C0042571
+spinning sensation|C0042571
+spinning sensations|C0042571
+rotary vertigo|C0042571
+sensations, spinning|C0042571
+vertigo subjective|C0042571
+vitamin products|C0042890
+vitamin|C0042890
+vitamin preparations|C0042890
+vitamin, nos|C0042890
+vitamins|C0042890
+vitamin preparation, nos|C0042890
+gain wt|C0043094
+ponderal increased|C0043094
+weight increased|C0043094
+gained weight|C0043094
+gain, weight|C0043094
+weight increasing|C0043094
+body weight gain|C0043094
+weight gain|C0043094
+increased weight|C0043094
+bwgain|C0043094
+measured weight gain|C0043094
+gain weight|C0043094
+gains, weight|C0043094
+wt gain|C0043094
+increase weight|C0043094
+weight gaining|C0043094
+weight gains|C0043094
+gains weight|C0043094
+gaining wt|C0043094
+weight increase|C0043094
+increasing weight|C0043094
+increased body weight|C0043094
+increases weight|C0043094
+azitromicina|C0052796
+azithromycin|C0052796
+n-methyl-11-aza-10-deoxy-10-dihydroerythromycin a|C0052796
+azithromycine|C0052796
+azythromycin|C0052796
+antibacterial azithromycin|C0052796
+azithromycin-containing product|C0052796
+azithromycinum|C0052796
+azithromycin, unspecified form|C0052796
+muscle strained|C0080194
+pull muscle|C0080194
+muscle pulling|C0080194
+muscle pulled|C0080194
+muscles strains|C0080194
+muscle pull or tear|C0080194
+muscle pull|C0080194
+muscle strain|C0080194
+muscle strains|C0080194
+muscles pull|C0080194
+strain|C0080194
+strained|C0080194
+strain, nos|C0080194
+muscles strained|C0080194
+muscles strain|C0080194
+strains|C0080194
+muscle pulls|C0080194
+strain of unspecified muscle|C0080194
+muscles pulling|C0080194
+muscles pulled|C0080194
+strain muscle|C0080194
+pulled muscle|C0080194
+retention of urine|C0080274
+increased post-void residual urine volume|C0080274
+unable to void urine|C0080274
+retention of urine, unspecified|C0080274
+retention, urinary|C0080274
+retention|C0080274
+bladder inability to empty|C0080274
+inability to empty bladder|C0080274
+urinary retention|C0080274
+rndx urinary retention|C0080274
+not passing urine|C0080274
+cannot pass urine - retention|C0080274
+unable to empty bladder|C0080274
+urine retention|C0080274
+retention urinary|C0080274
+bladder retention of urine|C0080274
+retention urine|C0080274
+unable to pass urine|C0080274
+bladder retention|C0080274
+bladder urine retention|C0080274
+bladder distention|C0080274
+chills fever|C0085594
+chills and fever|C0085594
+chills fevers|C0085594
+fever chills|C0085594
+chills with fever|C0085594
+chill fever|C0085594
+fever with chills|C0085594
+pyrexia with chills|C0085594
+hydrodipsomania|C0085602
+drinks continuously|C0085602
+excessive fluid intake|C0085602
+excessive thirst|C0085602
+extreme thirst|C0085602
+polydypsia|C0085602
+desperate to drink|C0085602
+excessive thirst and fluid intake|C0085602
+polydipsias|C0085602
+polydipsia|C0085602
+drinks a lot - fluids|C0085602
+cannot stop drinking|C0085602
+thirst excessive|C0085602
+excessive fluid consumption|C0085602
+keen for fluids|C0085602
+always thirsty|C0085602
+drinking more water|C0085602
+burning sensation|C0085624
+burning sensation nos|C0085624
+burning sensations|C0085624
+burning|C0085624
+mood swing|C0085633
+labile mood|C0085633
+change in mood|C0085633
+changeable mood|C0085633
+instability emotional|C0085633
+unstable mood|C0085633
+mood altered|C0085633
+mood swings|C0085633
+labile in mood|C0085633
+mood labile|C0085633
+mood alterations|C0085633
+mood lability|C0085633
+variable mood|C0085633
+mood variable|C0085633
+emotionally labile|C0085633
+lability emotional|C0085633
+mood change|C0085633
+labile moods|C0085633
+altered mood|C0085633
+altered moods|C0085633
+emotional lability|C0085633
+emotional instability|C0085633
+mood changes|C0085633
+symptoms of depression|C0086132
+symptoms depression|C0086132
+depressions symptoms|C0086132
+emotional depression|C0086132
+depressive symptoms|C0086132
+depression symptom|C0086132
+symptoms, depressive|C0086132
+symptom, depressive|C0086132
+depression symptoms|C0086132
+depressive symptom|C0086132
+depression, emotional|C0086132
+clots, blood|C0087086
+thrombi|C0087086
+thrombus|C0087086
+thrombotic|C0087086
+thrombus, nos|C0087086
+blood clot|C0087086
+blood clots|C0087086
+clot, blood|C0087086
+ulcer, oral|C0149745
+oral mucosal ulcerations|C0149745
+oral ulcers|C0149745
+ulcer of mouth|C0149745
+oral ulcerations|C0149745
+mouth--ulcers|C0149745
+oral mucosal ulceration|C0149745
+sores mouth|C0149745
+oral ulcer|C0149745
+oral ulceration|C0149745
+mouth ulcers|C0149745
+ulceration mouth|C0149745
+ulcer of oral mucosa|C0149745
+ulcers, mouth|C0149745
+mouth ulcerations|C0149745
+oral sore|C0149745
+mouth sore|C0149745
+ulceration of oral mucosa|C0149745
+mouth sores|C0149745
+ulcer, mouth|C0149745
+mouth ulcer|C0149745
+ulcer mouth|C0149745
+ulceration of mouth|C0149745
+ulcers, oral|C0149745
+oral sores|C0149745
+mouth ulceration|C0149745
+migraine headache|C0149931
+headache, migraine|C0149931
+headaches, migraine|C0149931
+disorder migraine|C0149931
+migraine, unspecified|C0149931
+migraine, nos|C0149931
+headache migraines|C0149931
+disorder, migraine|C0149931
+disorders, migraine|C0149931
+migraine headaches|C0149931
+migraine nos|C0149931
+migraine syndrome|C0149931
+migraine disorders|C0149931
+disorders migraine|C0149931
+headache migrainous|C0149931
+headache migraine|C0149931
+migraine type headaches|C0149931
+migrainous headache|C0149931
+migraine|C0149931
+migraine syndromes|C0149931
+migraine disorder|C0149931
+migraines|C0149931
+broken skin|C0150077
+skin breakdown|C0150077
+defect in skin surface|C0150077
+present|C0150312
+of presence|C0150312
+found|C0150312
+presence of|C0150312
+caring|C0150499
+stiff neck|C0151315
+neck stiff|C0151315
+neck stiffness|C0151315
+neck rigid|C0151315
+cervical rigidity|C0151315
+neck rigidity|C0151315
+ns - neck stiffness|C0151315
+stiffness of neck|C0151315
+rigidity neck|C0151315
+face puffiness|C0151602
+faces swelling|C0151602
+face swelling|C0151602
+puffiness face|C0151602
+swelling face|C0151602
+swollen face|C0151602
+facial swelling|C0151602
+swelling of face|C0151602
+facial puffiness|C0151602
+discolouration of skin|C0151907
+discoloration skin|C0151907
+discolouration skin|C0151907
+skin dyschromia|C0151907
+skin discoloration|C0151907
+dyschromia, unspecified|C0151907
+skin discolouration|C0151907
+discoloration of skin|C0151907
+dyschromia|C0151907
+anhydrotic skin|C0151908
+skin dry|C0151908
+skin dryness|C0151908
+dry skin|C0151908
+congestion of nasal sinus, nos|C0152029
+congestion of nasal sinus|C0152029
+nasal sinus congestion|C0152029
+sinus congestion, nos|C0152029
+sinus congestion|C0152029
+skin irritation|C0152030
+skin irritation, nos|C0152030
+irritation skin|C0152030
+urine hesitancy|C0152032
+hesitancy|C0152032
+delay when starting to pass urine|C0152032
+difficulty with flow|C0152032
+urinary hesitancy|C0152032
+urinary hesitation|C0152032
+hesitancy of micturition|C0152032
+urination hesitancy|C0152032
+delays in starting urination|C0152032
+difficulty initiating urination|C0152032
+hesitancy with urination|C0152032
+hesitancy urination|C0152032
+urinary hesistancy|C0152032
+adjustment reaction with anxious mood|C0154587
+adjustment disorders, with anxiety|C0154587
+adjustment disorder anxiety|C0154587
+adjustment anxious disorder mood|C0154587
+adjustment disorder with anxiety|C0154587
+adjustment disorder with anxious mood|C0154587
+irregular cycle intervals|C0156404
+irregular menstrual cycle|C0156404
+irregular uterine bleeding|C0156404
+irregular menstrual cycles|C0156404
+irregular menstrual bleeding|C0156404
+menstrual periods irregular|C0156404
+irregular menstrual periods|C0156404
+irregular menstrual period|C0156404
+irregular menstruation|C0156404
+irregular menstrual cycle intervals|C0156404
+menses, irregular|C0156404
+variable menstrual cycle|C0156404
+irregular menses|C0156404
+menses irregular|C0156404
+irregular menstruations|C0156404
+menstrual irregularity|C0156404
+irregular periods nos|C0156404
+irregular menstruation, unspecified|C0156404
+irregular period|C0156404
+menstruation irregular|C0156404
+irregularity, menstrual|C0156404
+menstrual irregularities|C0156404
+irregular cycle menstruation|C0156404
+menstruation, irregular|C0156404
+irregular periods|C0156404
+malnourishment|C0162429
+nutrition poor|C0162429
+disorder of nutrition|C0162429
+deficiencies disorders nutritional|C0162429
+undernutrition|C0162429
+underfed|C0162429
+deficiency nutritional|C0162429
+deficiency|C0162429
+undernutrition, nos|C0162429
+nutritional deficiency|C0162429
+nutritional deficiencies|C0162429
+poor nutrition|C0162429
+malnutrition|C0162429
+acquired deficiency|C0162429
+undernutrition syndrome, nos|C0162429
+deficiencies nutritional|C0162429
+malnourishments|C0162429
+deficiency state|C0162429
+undernourished|C0162429
+malnutrition nos|C0162429
+malnutrition syndrome|C0162429
+deficit, nos|C0162429
+dietary deficiency|C0162429
+deficiency disorders nutritional|C0162429
+undernutrition syndrome|C0162429
+malnourished|C0162429
+baseline dental cement|C0168634
+baselines|C0168634
+baseline|C0168634
+airway equipments|C0178987
+airways|C0178987
+airway equipment|C0178987
+airway device|C0178987
+airway devices|C0178987
+airway|C0178987
+aw - airway|C0178987
+artificial airways|C0178987
+airway device, nos|C0178987
+artificial airway|C0178987
+surgical mask|C0181758
+masks, operating room|C0181758
+mask surgical|C0181758
+surgical face mask|C0181758
+masks, surgical|C0181758
+mask, surgical|C0181758
+surgical masks|C0181758
+acute onset pain|C0184567
+pain acute|C0184567
+acute pains|C0184567
+rndx acute pain|C0184567
+pain, acute|C0184567
+acute pain nos|C0184567
+pains, acute|C0184567
+acute pain|C0184567
+mechanically assisted breathing|C0199470
+ventilation mechanical|C0199470
+mechanical ventilation|C0199470
+ventilation, mechanical|C0199470
+ventilation artificial|C0199470
+mechanically assisted ventilation|C0199470
+mechanical ventilations|C0199470
+mechanical respiratory assist|C0199470
+respiratory assist, mechanical|C0199470
+mechanical ventilation nos|C0199470
+mechanical ventilation, nos|C0199470
+ventilations, mechanical|C0199470
+c.a.t. scan of thorax|C0202823
+chest ct|C0202823
+cat scan of thorax|C0202823
+ct chest scan|C0202823
+chest ct scans|C0202823
+tomography with use of computer, x-rays, and camera of thorax|C0202823
+ct of chest|C0202823
+computerized tomography, thorax|C0202823
+computerized axial tomography of thorax|C0202823
+chest ct scan|C0202823
+ct chest|C0202823
+ct scan of chest|C0202823
+ct of thoracic region|C0202823
+computerized tomography of thorax|C0202823
+thorax cat|C0202823
+ct scan chest|C0202823
+computerised tomogram thorax|C0202823
+thorax ct|C0202823
+ct scan of the chest|C0202823
+computed tomography of chest|C0202823
+ct of thorax|C0202823
+ct thorax|C0202823
+computerized tomogram thorax|C0202823
+ct scan of thorax|C0202823
+stiff muscles|C0221170
+muscle stiffness|C0221170
+stiff|C0221170
+muscular stiffness|C0221170
+muscles stiffness|C0221170
+stiffness muscle|C0221170
+pain mouth|C0221776
+mouth pains|C0221776
+cavity oral pain|C0221776
+oral cavity pain|C0221776
+oral pain|C0221776
+painful mouth|C0221776
+pain oral|C0221776
+mouth painful|C0221776
+mouth pain|C0221776
+pain in oral cavity|C0221776
+feeling unwell|C0231218
+feeling tired or poorly|C0231218
+feels unwell|C0231218
+feels poorly|C0231218
+general malaise|C0231218
+feel bad|C0231218
+vague ill health|C0231218
+not feeling well|C0231218
+feels off-colour|C0231218
+vague bodily discomfort|C0231218
+felt generally ill|C0231218
+feels off-color|C0231218
+malaise generalized|C0231218
+ill-defined experience|C0231218
+malaise|C0231218
+malaise nos|C0231218
+discomfort bodily|C0231218
+feeling lifeless|C0231218
+does not feel right|C0231218
+not feeling great|C0231218
+feeling bad|C0231218
+feeling miserable|C0231218
+generally unwell|C0231218
+feel ill|C0231218
+feeling poorly|C0231218
+feels awful|C0231218
+ill feeling|C0231218
+feeling ill|C0231218
+general feeling of illness|C0231218
+inadequate weight gain|C0231246
+failure weight gain|C0231246
+faltering weight|C0231246
+weight gaining|C0231246
+weight gain unable|C0231246
+weight gain poor|C0231246
+low weight gain|C0231246
+put weight|C0231246
+putting weight|C0231246
+unable to gain weight|C0231246
+gaining weight|C0231246
+poor weight gain|C0231246
+not gaining weight|C0231246
+not putting on weight|C0231246
+weight gain failure|C0231246
+weight faltering|C0231246
+failure to gain weight|C0231246
+increased stress|C0231298
+rndx activity intolerance|C0231367
+activity intolerance|C0231367
+moderate anxiety|C0231402
+antalgic gait|C0231685
+antalgic limp|C0231685
+gonalgia|C0231749
+pain in the knees|C0231749
+pain of joint of knee|C0231749
+arthralgia of knee/patella/tibia/fibula|C0231749
+aching knees|C0231749
+aching knee|C0231749
+pain in knee|C0231749
+pain of knee region|C0231749
+knee pain|C0231749
+knee joint pain|C0231749
+knee pain musculoskeletal|C0231749
+knees aching|C0231749
+knee pains|C0231749
+pain in unspecified knee|C0231749
+painful knee|C0231749
+arthralgia of knee|C0231749
+pain knee|C0231749
+knee arthralgia|C0231749
+musculoskeletal knee pain|C0231749
+aching in knees|C0231749
+pain in heel|C0231780
+heel pain|C0231780
+talalgia|C0231780
+functional dyspnoea|C0231807
+dyspnoea on effort|C0231807
+difficulty breathing while active|C0231807
+functional dyspnea|C0231807
+shortness of breathing upon physical activity|C0231807
+dyspnea on effort|C0231807
+dyspnoea exertional|C0231807
+difficulty breathing during exertion|C0231807
+exertional dyspnoea|C0231807
+shortness of breath exertion|C0231807
+exertional dyspnea|C0231807
+dyspnea with exertion|C0231807
+dyspnea on exertion|C0231807
+shortness of breath on exertion|C0231807
+exercise dyspnoea|C0231807
+exercise dyspnea|C0231807
+dyspnoea on exertion|C0231807
+short of breath on exertion|C0231807
+exertion dyspnea|C0231807
+soboe - shortness of breath on exertion|C0231807
+exertional breathlessness|C0231807
+shortness of breath during exercise|C0231807
+dyspnea, exertional|C0231807
+dyspnea exertional|C0231807
+breathlessness on exertion|C0231807
+dyspnea during exertion|C0231807
+tachypnea nos|C0231835
+tachypnea|C0231835
+rapid breathing|C0231835
+respiratory rate high|C0231835
+tachypnoea|C0231835
+rapid respiration|C0231835
+tachypneas|C0231835
+rapid respirations|C0231835
+tachypnoeic|C0231835
+increased respiratory rate|C0231835
+increased respiratory rate or depth of breathing|C0231835
+fast breathing|C0231835
+breathing rate increased|C0231835
+increase in respiratory rate|C0231835
+respiratory rate increased|C0231835
+polypnea|C0231835
+respiration rate increased|C0231835
+tachypneic|C0231835
+cough, paroxysmal|C0231911
+paroxysmal cough|C0231911
+paroxysm of coughing|C0231911
+a paroxysmal cough was observed|C0231911
+coughing paroxysms|C0231911
+cough paroxysms|C0231911
+fit of coughing|C0231911
+coughing fits|C0231911
+bout of coughing|C0231911
+coughing paroxysmal|C0231911
+systolic murmur, nos|C0232257
+murmur systolic|C0232257
+systolic heart murmur|C0232257
+murmur-systolic|C0232257
+heart murmur, systolic|C0232257
+heart murmurs systolic|C0232257
+systolic bruit|C0232257
+functional murmur systolic|C0232257
+murmur, systolic|C0232257
+systolic murmurs|C0232257
+systolic murmur nos|C0232257
+murmurs, systolic|C0232257
+systolic murmur|C0232257
+sm - systolic murmur|C0232257
+chest pain, exertional|C0232288
+exertional chest pain|C0232288
+chest pain exertional|C0232288
+chest pain starting with exertion|C0232288
+chest pain on exertion|C0232288
+food appetite, decreased|C0232462
+poor appetite|C0232462
+decrease appetite|C0232462
+appetite poor|C0232462
+loss of appetite|C0232462
+hyporexia|C0232462
+decrease in appetite|C0232462
+appetite decrease|C0232462
+decreased food appetite|C0232462
+appetite decreased nos|C0232462
+reduced appetite|C0232462
+inappetence|C0232462
+decreased appetite|C0232462
+appetite reducing|C0232462
+appetite decreased|C0232462
+appetites decrease|C0232462
+appetite decreasing|C0232462
+refluxing|C0232483
+refluxed|C0232483
+refluxs|C0232483
+reflux|C0232483
+reflux, nos|C0232483
+abdominal discomfort|C0232487
+abdomen discomfort|C0232487
+discomfort abdominal|C0232487
+abdominal pain upper|C0232492
+abdomen upper pain|C0232492
+upper abdomen pain|C0232492
+upper abdominal pain|C0232492
+pain localised to upper abdomen|C0232492
+upper abdominal pain, unspecified|C0232492
+pain localized to upper abdomen|C0232492
+pain upper abdomen|C0232492
+abdominal pain, upper|C0232492
+luq ruq abdominal pain|C0232492
+abdominal pains upper|C0232492
+abdomen pain upper|C0232492
+psychiatric symptom|C0233401
+psychiatric symptom, nos|C0233401
+mental symptoms|C0233401
+psychiatric symptoms|C0233401
+psychiatric symptom nos|C0233401
+mental symptom|C0233401
+symptoms psychiatric|C0233401
+psychiatrics symptoms|C0233401
+flat affect|C0233471
+affect flat|C0233471
+affect shallowness|C0233471
+dysphoria|C0233477
+mood dysphoric|C0233477
+dysphoric mood|C0233477
+behavioural disturbances|C0233514
+behavioral/psychiatric abnormalities|C0233514
+behaviour problems|C0233514
+abnormal behavior, nos|C0233514
+problem behaviour|C0233514
+behavior problem|C0233514
+not acting normal|C0233514
+psychiatric disorders|C0233514
+psychiatric disturbances|C0233514
+not acting self|C0233514
+abnormal conduct, nos|C0233514
+behavioral problems|C0233514
+strange behaviour|C0233514
+strange behavior|C0233514
+problem behaviors|C0233514
+behaviors problem|C0233514
+behavioural concern|C0233514
+behavioral problem|C0233514
+abnormal conduct|C0233514
+abnormal behaviour nos|C0233514
+behavior problems|C0233514
+behavioural abnormality|C0233514
+problem behavior|C0233514
+problem, behavioral|C0233514
+behaviours problem|C0233514
+behavioural/psychiatric abnormality|C0233514
+behavioral disturbance|C0233514
+behavioural problems|C0233514
+abnormal behaviour|C0233514
+behavioral disturbances|C0233514
+problems behavior|C0233514
+abnormal behavior nos|C0233514
+behavioural problem|C0233514
+problems, behavioral|C0233514
+behavioral abnormality|C0233514
+behavior abnormal|C0233514
+behavior, problem|C0233514
+behaviors, problem|C0233514
+behaviour abnormal|C0233514
+abnormal behavior|C0233514
+disturbance of conation, nos|C0233514
+behavioral concern|C0233514
+disturbance of conation|C0233514
+behaviour problem|C0233514
+behavioral abnormalities|C0233514
+bradykinesis|C0233565
+slow movement|C0233565
+bradykinesia|C0233565
+slow movements|C0233565
+slowness of movements|C0233565
+slowed movement|C0233565
+slow physical movement|C0233565
+bradykinesias|C0233565
+foot tapping|C0233585
+ritual compulsion|C0233622
+rituals|C0233622
+ritual|C0233622
+compulsive ritualistic behaviour|C0233622
+compulsion expressed as ritual|C0233622
+compulsive ritualistic behavior|C0233622
+impairment speech|C0233715
+has difficulty with speech|C0233715
+difficulties in speech|C0233715
+speech abnormality, nos|C0233715
+speech impediment|C0233715
+speech impairment nos|C0233715
+impediments speech|C0233715
+impairs speech|C0233715
+impaired speech|C0233715
+speech difficulties|C0233715
+disturbance in speech, nos|C0233715
+speech disturbance|C0233715
+speech disturbances|C0233715
+speech difficulty|C0233715
+speech disturbance nos|C0233715
+speech impaired|C0233715
+speech abnormalities|C0233715
+unspecified speech disturbances|C0233715
+difficulties speech|C0233715
+impair speech|C0233715
+disturbance in speech|C0233715
+abnormalities speech|C0233715
+impairments speech|C0233715
+speech abnormality|C0233715
+speech impairment|C0233715
+hallucinations auditory|C0233762
+hallucinations of sound|C0233762
+auditory hallucination|C0233762
+hallucinations, auditory|C0233762
+auditory hallucinations|C0233762
+hearing sounds|C0233762
+hallucination, auditory|C0233762
+hallucination auditory|C0233762
+see thing|C0233763
+visual hallucination|C0233763
+visual hallucinations|C0233763
+hallucinations, visual|C0233763
+hallucination, visual|C0233763
+seeing thing|C0233763
+see things|C0233763
+hallucination visual|C0233763
+hallucinations visual|C0233763
+seeing things|C0233763
+sore pain|C0234233
+tenderness|C0234233
+tenderness nos|C0234233
+tender pain|C0234233
+sore, painful|C0234233
+soreness|C0234233
+sore to touch|C0234233
+slurred|C0234518
+speech slurred|C0234518
+slur speech|C0234518
+speech slur|C0234518
+slurring speech|C0234518
+slurring|C0234518
+slurs|C0234518
+scamping speech|C0234518
+clipped speech|C0234518
+speech-slurring|C0234518
+slurred speech|C0234518
+singing|C0234857
+sings|C0234857
+dizziness standing up|C0234987
+dizziness upon standing|C0234987
+orthostatic dizziness|C0234987
+dizziness upon standing up|C0234987
+postural lightheadedness|C0234987
+dizziness stand|C0234987
+dizziness standing|C0234987
+dizzy on standing|C0234987
+dizziness postural|C0234987
+dizziness stand up|C0234987
+postural dizziness|C0234987
+dizzy standing|C0234987
+dizziness on standing up|C0234987
+cold feelings|C0235150
+feel cold|C0235150
+feels cold|C0235150
+feeling cool|C0235150
+cold feeling|C0235150
+systemic symptoms feels cold|C0235150
+cool feels|C0235150
+feeling cold|C0235150
+cold feel|C0235150
+eyes red|C0235267
+eyes redness|C0235267
+redness of eye|C0235267
+redness of the eyes|C0235267
+red eye|C0235267
+redness of eyes|C0235267
+red eyes|C0235267
+eye redness|C0235267
+eye red|C0235267
+pain right upper quandrant|C0235299
+pain right upper quadrant|C0235299
+hypochondrium pain right|C0235299
+pain upper right quadrant|C0235299
+ruq abdominal pain|C0235299
+pain quadrant right upper|C0235299
+abdominal pain right upper quadrant|C0235299
+ruq pain|C0235299
+right upper quandrant pain|C0235299
+right upper quadrant pain|C0235299
+right upper quadrant abdominal pain|C0235299
+upper right quadrant pain|C0235299
+abdomen ruq pain|C0235299
+abdominal pain, right upper quadrant|C0235299
+sore tummy|C0235309
+stomachaches|C0235309
+upset stomach|C0235309
+stomach upsets|C0235309
+aches stomach|C0235309
+discomfort stomach|C0235309
+tummy ache|C0235309
+upset tummy|C0235309
+stomach discomfort|C0235309
+stomachs upset|C0235309
+aches belly|C0235309
+aches tummy|C0235309
+stomach upset|C0235309
+belly ache|C0235309
+stomach ache|C0235309
+ache stomach|C0235309
+ache tummy|C0235309
+oligopnea|C0235546
+hypopnoea|C0235546
+hypopnoeas|C0235546
+hypopnea|C0235546
+oligopnoea|C0235546
+slow shallow breathing|C0235546
+hypopneas|C0235546
+edema of legs|C0235886
+oedema legs|C0235886
+legs edema|C0235886
+leg edema|C0235886
+of leg edema|C0235886
+oedema of legs|C0235886
+edema leg|C0235886
+edema of leg|C0235886
+legs oedema|C0235886
+oedema leg|C0235886
+leg oedema|C0235886
+oedema of leg|C0235886
+edema legs|C0235886
+pains scrotal|C0236078
+scrotum painful|C0236078
+pain scrotum|C0236078
+scrotal pain|C0236078
+pain in the scrotum|C0236078
+scrotum pain|C0236078
+pain of scrotum|C0236078
+pain scrotal|C0236078
+pain in scrotum|C0236078
+hallucinogen persistent perception disorder|C0236720
+flashback phenomenon|C0236720
+hallucinogen persisting perception disorder|C0236720
+flashbacks|C0236720
+posthallucinogen perception disorder|C0236720
+flashback|C0236720
+peeling|C0237849
+peeling skin|C0237849
+skin peeling|C0237849
+scales|C0237849
+peeling skins|C0237849
+exfoliation, nos|C0237849
+exfoliation was seen|C0237849
+exfoliation of skin|C0237849
+shedding of scales|C0237849
+peels|C0237849
+skin desquamation|C0237849
+exfoliation nos|C0237849
+scaling of skin, nos|C0237849
+desquamative state|C0237849
+desquamation of skin|C0237849
+skin scales|C0237849
+skin scaling|C0237849
+skin peel|C0237849
+desquamation was seen|C0237849
+peeling of skin|C0237849
+skin desquamation nos|C0237849
+desquamation|C0237849
+desquamation, nos|C0237849
+scaling|C0237849
+exfoliate|C0237849
+skin exfoliation|C0237849
+skin appearance peeling|C0237849
+exfoliated|C0237849
+exfoliating|C0237849
+flaking of skin|C0237849
+scaly skin|C0237849
+flaking skin|C0237849
+scales were seen|C0237849
+exfoliation|C0237849
+scaling of the skin|C0237849
+scaling skin|C0237849
+desquamation, function|C0237849
+dropping of scales|C0237849
+skin flaking|C0237849
+scaling of skin|C0237849
+sharp pain chest|C0238995
+chest pain sharp|C0238995
+sharp, shooting, knifelike chest pain|C0238995
+chest pain, sharp|C0238995
+chest pains sharp|C0238995
+sharp chest pain|C0238995
+musculoskeletal elbow pain|C0239266
+pain elbow|C0239266
+pain in unspecified elbow|C0239266
+elbows pain|C0239266
+elbow pain|C0239266
+pain in elbow|C0239266
+pain in the elbows|C0239266
+elbow pains|C0239266
+peripheral oedema of lower extremity|C0239340
+pedal edema|C0239340
+lower limb oedema|C0239340
+lower extremities edema|C0239340
+oedema of lower extremities|C0239340
+edema of lower limb|C0239340
+extremity edema, lower|C0239340
+hindlimb edema|C0239340
+fluid accumulation in lower limbs|C0239340
+lower extremity edema|C0239340
+edema of the lower limbs|C0239340
+oedema of the lower limbs|C0239340
+edema lower limb|C0239340
+edema of lower extremities|C0239340
+pedal oedema|C0239340
+edema of lower extremity|C0239340
+edema lower extremity|C0239340
+edema extremities lower|C0239340
+lower limb edema|C0239340
+peripheral edema of lower extremity|C0239340
+oedema lower limb|C0239340
+oedema of lower limb|C0239340
+lower leg swelling|C0239340
+oedema of lower extremity|C0239340
+leg oedema|C0239340
+foot numbness|C0239649
+numbness foot|C0239649
+feet numbness|C0239649
+numbness in feet|C0239649
+numbness in foot|C0239649
+numbness feet|C0239649
+numbness of foot|C0239649
+grimaces|C0239779
+grimacing|C0239779
+grimace|C0239779
+grimacing nos|C0239779
+numbness of hand|C0239832
+hand numbness|C0239832
+hands numbness|C0239832
+numbness in hand|C0239832
+change in personality|C0240735
+personality change, nos|C0240735
+personality change|C0240735
+changes personality|C0240735
+personality changes|C0240735
+left pain shoulder|C0241039
+pain in left shoulder|C0241039
+shoulder pain left|C0241039
+shoulder pain, left|C0241039
+left shoulder joint pain|C0241039
+left shoulder pain|C0241039
+pain of left shoulder joint|C0241039
+sensation of burning of skin|C0241057
+sensation of burning skin|C0241057
+burning sensation skin|C0241057
+of skin burning|C0241057
+dysesthesia|C0241057
+skin sensation burning|C0241057
+skin burning sensation|C0241057
+burning sensation of skin|C0241057
+burning sensation|C0241057
+burning skin|C0241057
+burning of skin|C0241057
+burning skin sensation|C0241057
+burning sensations skin|C0241057
+tenderness skin|C0241164
+skin tender|C0241164
+tender skin|C0241164
+skin tenderness|C0241164
+skin thickening|C0241165
+skin texture thickened|C0241165
+thickening skin|C0241165
+skin thickened|C0241165
+thickened skin|C0241165
+thick skin|C0241165
+pachydermia|C0241165
+thickening of skin|C0241165
+skin thick|C0241165
+of skin thickening|C0241165
+skinned thick|C0241165
+pain in the thigh|C0241374
+thigh pain|C0241374
+limb pain thigh|C0241374
+pain in unspecified thigh|C0241374
+meralgia|C0241374
+pain in thigh|C0241374
+musculoskeletal thigh pain|C0241374
+pain in toe|C0241416
+musculoskeletal toe pain|C0241416
+pains toe|C0241416
+limb pain toe|C0241416
+pain toes|C0241416
+toe pain|C0241416
+pain toe|C0241416
+toes pain|C0241416
+difficulty in micturition|C0241705
+stranguria|C0241705
+difficulties with micturition|C0241705
+voiding difficulty|C0241705
+problem with urination|C0241705
+difficulty urinary|C0241705
+micturition difficulties|C0241705
+painful urging to urinate|C0241705
+difficulty in urination|C0241705
+difficulty voiding|C0241705
+urinary difficulty|C0241705
+difficulties urination|C0241705
+spastic dysuria|C0241705
+problem with micturition|C0241705
+problems urination|C0241705
+difficulties urinating|C0241705
+difficulties urinary|C0241705
+difficulty with urination|C0241705
+urinating difficulty|C0241705
+urination difficulty|C0241705
+urination problem|C0241705
+difficulty urination|C0241705
+difficulty urinating|C0241705
+difficulty with micturition|C0241705
+difficulty passing urine|C0241705
+dysuria, spastic|C0241705
+difficulty urinate|C0241705
+strangury|C0241705
+micturition problems|C0241705
+difficulty in voiding|C0241705
+difficulty keeping balanced|C0241981
+problems with balance|C0241981
+balance problems|C0241981
+loss balance|C0241981
+difficulty keeping one's balance|C0241981
+impairment of balance|C0241981
+unable to balance|C0241981
+impaired balance|C0241981
+balance loss|C0241981
+balance impairment|C0241981
+problem with balance|C0241981
+difficulty maintaining balance|C0241981
+loss of balance|C0241981
+oxygen deficiencies|C0242184
+hypoxic|C0242184
+deficiency, oxygen|C0242184
+oxygen decrease|C0242184
+deficiencies, oxygen|C0242184
+decreased oxygen supply|C0242184
+oxygen deficiency|C0242184
+hypoxia|C0242184
+erectile abnormalities|C0242350
+erection dysfunction|C0242350
+male sexual impotence|C0242350
+erectile dysfunction nos|C0242350
+dysfunction erectile|C0242350
+erectile dysfunction|C0242350
+dysfunction, erectile|C0242350
+impotence nos|C0242350
+erectile dysfunctions|C0242350
+dysfunctioning erectile|C0242350
+male erectile dysfunction|C0242350
+male impotence|C0242350
+male erectile dysfunction, unspecified|C0242350
+erectile disturbance|C0242350
+erection failure|C0242350
+impotence|C0242350
+sexual impotence, male|C0242350
+impotence, male|C0242350
+impotence, nos|C0242350
+difficulty getting a full erection|C0242350
+difficulty getting an erection|C0242350
+penile erection impairment|C0242350
+impotent|C0242350
+impotence, male sexual|C0242350
+sexual impotence, nos|C0242350
+failure of erection|C0242350
+male erectile disorder|C0242350
+erectile disorder|C0242350
+dysfunction erection|C0242350
+sexual impotence|C0242350
+abnormal erection|C0242350
+pharynx discomfort|C0242429
+throat, sore|C0242429
+throat discomfort|C0242429
+throat pain|C0242429
+pharyngeal pain|C0242429
+sore throat nos|C0242429
+pain pharynx|C0242429
+sore throats|C0242429
+pain in throat|C0242429
+sore throat, nos|C0242429
+faucitis|C0242429
+throat sore|C0242429
+sore symptoms throat|C0242429
+sore throat|C0242429
+throat soreness|C0242429
+sorethroat|C0242429
+sore throat symptom|C0242429
+pain throat|C0242429
+pain in the pharynx|C0242429
+sore symptom throat|C0242429
+disease progression|C0242656
+course illness|C0242656
+disease progression nos|C0242656
+progression, disease|C0242656
+disease progressions|C0242656
+progression|C0242656
+disease course|C0242656
+disorder course|C0242656
+progressions, disease|C0242656
+course of disorder|C0242656
+courses disease|C0242656
+course of illness|C0242656
+disease transmissions|C0242781
+infectious disease transmission|C0242781
+transmission, infectious disease|C0242781
+transmission, communicable disease|C0242781
+transmission|C0242781
+transmitted|C0242781
+diseases transmission|C0242781
+of disease transmission|C0242781
+infection transmission|C0242781
+transmission of infectious disease|C0242781
+diseases of transmission|C0242781
+disease transmission|C0242781
+transmission, pathogen|C0242781
+disease transmission, communicable|C0242781
+disease transmission, infectious|C0242781
+transmission disease|C0242781
+communicable diseases--transmission|C0242781
+pathogen transmission route|C0242781
+transmission, infection|C0242781
+communicable disease transmission|C0242781
+pathogen transmission|C0242781
+transmission of disease|C0242781
+muscular fatigue|C0242979
+muscles tire easily|C0242979
+muscle tiredness|C0242979
+fatigue muscle|C0242979
+fatigue, muscle|C0242979
+fatigue, muscular|C0242979
+fatigue muscles|C0242979
+muscle fatigue|C0242979
+muscular fatigue, nos|C0242979
+chest pain atypical|C0262384
+atypical chest discomfort|C0262384
+atypical chest pain|C0262384
+personal medical history|C0262926
+history medical|C0262926
+medical history|C0262926
+past medical history|C0262926
+history of|C0262926
+medical history of|C0262926
+personal health record|C0262926
+history|C0262926
+personal history|C0262926
+bloods occult stool|C0266813
+stool guaiac test positive|C0266813
+stool heme|C0266813
+stool heme positive|C0266813
+positive heme stool|C0266813
+heme stool|C0266813
+stool guaiac positive|C0266813
+fecal occult blood positive|C0266813
+fob positive|C0266813
+stool occult blood|C0266813
+blood occult stool|C0266813
+fecal occult blood|C0266813
+positive occult stool blood test|C0266813
+stool guaiac|C0266813
+guaiac positive stools|C0266813
+occult blood stool|C0266813
+guaiac positive stool|C0266813
+occult blood loss|C0266813
+occult blood in stools|C0266813
+guaiac stool|C0266813
+occult blood in feces|C0266813
+guaiac stools|C0266813
+guaiac-positive stools|C0266813
+guaiac stool test positive|C0266813
+heme positive stools|C0266813
+heme positive stool|C0266813
+faecal occult blood positive|C0266813
+occult fecal blood|C0266813
+occult blood positive stool|C0266813
+occult blood in stool|C0266813
+difficulty swallowing during oropharyngeal phase|C0267071
+pharyngeal dysphagia|C0267071
+dysphagia, oropharyngeal phase|C0267071
+oropharyngeal dysphagia|C0267071
+dysphagia, oropharyngeal|C0267071
+oral pharyngeal dysphagia|C0267071
+oropharyngeal phase dysphagia|C0267071
+oral-pharyngeal dysphagia|C0267071
+transfer dysphagia|C0267071
+fluids retention|C0268000
+retentions of fluids|C0268000
+fluid retention nos|C0268000
+retention of fluid|C0268000
+body fluid retention|C0268000
+fluid retention|C0268000
+water retention|C0268000
+acute infections|C0275518
+acute infection|C0275518
+acute infectious disease|C0275518
+infection acute|C0275518
+nebulous urine|C0278034
+urine is cloudy|C0278034
+cloudy urine|C0278034
+urine looks cloudy|C0278034
+clouded urine|C0278034
+urine cloud|C0278034
+urine clouding|C0278034
+urine cloudy|C0278034
+altered mental status|C0278061
+alter mental status|C0278061
+mental status altered|C0278061
+abnormal mentation|C0278061
+mental impairment|C0278061
+mental state abnormal|C0278061
+reduced mental health|C0278061
+abnormal mental state|C0278061
+mental subnormality|C0278061
+diminished mental health|C0278061
+anaesthesia|C0278134
+anesthesia|C0278134
+sensory anesthesia|C0278134
+anesthesias|C0278134
+sensory loss|C0278134
+sensory anaesthesia|C0278134
+absence of sensation|C0278134
+lack of sensation|C0278134
+pain mild|C0278138
+mild pain|C0278138
+pain severe|C0278140
+severe pain|C0278140
+pains severe|C0278140
+pains shooting|C0278146
+lightning pains|C0278146
+shooting pain|C0278146
+lightning pain|C0278146
+pain shooting|C0278146
+nerve pain root|C0278147
+root nerve pain|C0278147
+root signature|C0278147
+radicular pain|C0278147
+nerve root pain|C0278147
+skin swelling|C0281982
+skin swelling of|C0281982
+cutaneous swelling|C0281982
+swelling of skin|C0281982
+swelling skin|C0281982
+gait difficulty|C0311394
+difficulties walk|C0311394
+ambulatory difficulties|C0311394
+walking problems|C0311394
+walking difficulty|C0311394
+problems walking|C0311394
+difficulties, ambulation|C0311394
+ambulation difficulty|C0311394
+impaired walking|C0311394
+difficulties, ambulatory|C0311394
+difficulty in walking|C0311394
+difficulty, ambulation|C0311394
+difficulties walking|C0311394
+walking difficulties|C0311394
+ambulatory difficulty|C0311394
+problem with walking|C0311394
+ambulation difficulties|C0311394
+walking disability|C0311394
+difficulty walking|C0311394
+difficulty ambulation|C0311394
+difficulties gait|C0311394
+walking, difficulty|C0311394
+pfizer|C0331888
+tissue infiltration, nos|C0332448
+infiltrated|C0332448
+local infiltration|C0332448
+infiltrate|C0332448
+infiltration|C0332448
+tissue infiltration|C0332448
+infiltration, nos|C0332448
+infiltrate, nos|C0332448
+infiltrating|C0332448
+infiltration into tissue|C0332448
+infiltrates|C0332448
+macular lesion|C0332573
+macula|C0332573
+macule|C0332573
+flat, discolored area of skin|C0332573
+maculae|C0332573
+macular lesions|C0332573
+macule, nos|C0332573
+macules|C0332573
+flat, discoloured area of skin|C0332573
+edema pits|C0333243
+pit edema|C0333243
+oedema pitting|C0333243
+edema pitting|C0333243
+edema pitted|C0333243
+pitting oedema|C0333243
+pitting edema|C0333243
+dissecting haemorrhage|C0333288
+dissection|C0333288
+dissecting hemorrhage|C0333288
+hemorrhage, dissecting|C0333288
+cognitive dysfunction|C0338656
+cognitive disturbance|C0338656
+cognitive defects|C0338656
+cognitive deficits|C0338656
+cognitive disturbances|C0338656
+disturbance in cognition|C0338656
+impaired cognition|C0338656
+cognitive dysfunctions|C0338656
+dysfunction, cognitive|C0338656
+neurocognitive dysfunction|C0338656
+cognitive function abnormal|C0338656
+dysfunctions, cognitive|C0338656
+neurocognitive disturbance|C0338656
+cognitive impairments|C0338656
+impairments, cognitive|C0338656
+cognitive deficit|C0338656
+cognitive impairment|C0338656
+impairment, cognitive|C0338656
+cognitive decline|C0338656
+mania|C0338831
+mania nos|C0338831
+manic states|C0338831
+manic state|C0338831
+manias|C0338831
+manic|C0338831
+stable anginas, chronic|C0340288
+angina pectoris, stable|C0340288
+stable anginas|C0340288
+angina, chronic stable|C0340288
+stable chronic angina|C0340288
+stable angina, chronic|C0340288
+pectoris, stable angina|C0340288
+stable angina pectoris|C0340288
+angina, stable|C0340288
+stable angina pectori|C0340288
+chronic stable anginas|C0340288
+angina chronic stable|C0340288
+anginas, chronic stable|C0340288
+anginas, stable|C0340288
+angina pectori, stable|C0340288
+stable angina|C0340288
+chronic stable angina|C0340288
+pectori, stable angina|C0340288
+angina stable|C0340288
+feeling blue|C0344315
+depressing|C0344315
+depression moods|C0344315
+depressed mood|C0344315
+feeling down|C0344315
+depressed|C0344315
+mood depressed|C0344315
+miserable|C0344315
+morose mood|C0344315
+melancholy|C0344315
+melancholic|C0344315
+depression|C0344315
+low mood|C0344315
+mood depressions|C0344315
+feeling low|C0344315
+decreased mood|C0344315
+mood depression|C0344315
+morosity|C0344315
+photosensitive skin|C0349506
+photosensitization|C0349506
+photosensitivity|C0349506
+photosensitiveness due to sun|C0349506
+sun sensitivity|C0349506
+photosensitivity of skin|C0349506
+cutaneous photosensitivity|C0349506
+photosensitive skin rashes|C0349506
+abnormal skin sensitivity to sunlight|C0349506
+abnormal skin photosensitivity|C0349506
+skin photosensitivity|C0349506
+sensitivity to sunlight|C0349506
+clammy|C0392162
+clamminess of skin|C0392162
+clammy skin|C0392162
+skin sticky|C0392162
+clamminess|C0392162
+sticky skin|C0392162
+washed-out|C0392674
+exhaustion, nos|C0392674
+worn out|C0392674
+washed out|C0392674
+exhaustion|C0392674
+exhausted|C0392674
+chronic diarrhea|C0401151
+chronic diarrhoea|C0401151
+diarrhoea recurrent|C0401151
+recurrent diarrhoea|C0401151
+recurrent diarrhea|C0401151
+diarrhea recurrent|C0401151
+diarrhea, chronic|C0401151
+diarrhea chronic|C0401151
+diarrhea, recurrent|C0401151
+pins and needles sensation|C0423572
+needles pin sensation|C0423572
+pins and needles|C0423572
+pins needles|C0423572
+flank left pain|C0423641
+flank pain, left|C0423641
+pain in the flank left|C0423641
+flank pains, left|C0423641
+left flank pains|C0423641
+pain left flank|C0423641
+left flank pain|C0423641
+pain, left flank|C0423641
+pains, left flank|C0423641
+spinal pain|C0423673
+pain in spine|C0423673
+pain spine|C0423673
+pain in the spine|C0423673
+rachidial pain|C0423673
+rachialgia|C0423673
+vertebral pain|C0423673
+rachiodynia|C0423673
+spine pain|C0423673
+easy bruisability of skin|C0423798
+bruise easily|C0423798
+bruising susceptibility|C0423798
+does bruise easily|C0423798
+easy bruising tendency|C0423798
+easy bruising|C0423798
+easily bruises|C0423798
+bruising easy|C0423798
+bruisability|C0423798
+increased tendency to bruise|C0423798
+easy bruisability|C0423798
+bruises easily|C0423798
+ideation suicidal|C0424000
+suicide thoughts|C0424000
+ideation, suicidal|C0424000
+suicidality|C0424000
+feeling suicidal|C0424000
+ideations suicidal|C0424000
+suicidal ideation|C0424000
+suicidal thoughts|C0424000
+ideations, suicidal|C0424000
+suicidal ideations|C0424000
+thoughts about suicide|C0424000
+thinking about suicide|C0424000
+thoughts of suicide|C0424000
+decreased interest|C0424091
+lack of interest|C0424091
+loss of interest|C0424091
+inattentive|C0424101
+inattention|C0424101
+attitude inattentive|C0424101
+general inattentiveness|C0424101
+affect tearful|C0424109
+weeping|C0424109
+crying associated with mood|C0424109
+weepiness|C0424109
+weeps|C0424109
+tearful|C0424109
+tearfulness|C0424109
+crying associated with emotion|C0424109
+weepy|C0424109
+fidgeting|C0424235
+fidget|C0424235
+fidgety|C0424235
+fidgets|C0424235
+hyperactivity, nos|C0424295
+hyperkinetic movement|C0424295
+hyperactive behavior|C0424295
+increased purposeful goal-directed activity|C0424295
+hyperactive behaviour|C0424295
+hyperactive|C0424295
+motor hyperactivity|C0424295
+behaviour hyperactive|C0424295
+hyperkinesis|C0424295
+ha - hyperactivity|C0424295
+hyperkinesis, nos|C0424295
+hyperactivity|C0424295
+hyper|C0424295
+increased purposeful goal-directed activity, nos|C0424295
+hyperactivities|C0424295
+behavior hyperactive|C0424295
+more active than typical|C0424295
+anger outburst|C0424329
+outburst of anger|C0424329
+anger outbursts|C0424329
+outbursts of anger|C0424329
+outbursts of rage|C0424329
+bleeds profusely|C0424561
+excessive bleeding|C0424561
+cannot sleep at all|C0424565
+cannot sleep|C0424565
+unable to sleep|C0424565
+inability to sleep|C0424565
+tired easily|C0424585
+easily tires|C0424585
+tiring easily|C0424585
+rapidly tired|C0424585
+tires quickly|C0424585
+easily tired|C0424585
+tires easily|C0424585
+easily tiring|C0424585
+fever symptom|C0424755
+symptoms fever|C0424755
+fever|C0424755
+fever symptoms|C0424755
+fever as symptom|C0424755
+urinary sign|C0426359
+urinary symptoms|C0426359
+urinary system symptoms|C0426359
+symptoms urinary|C0426359
+gastrointestinal symptom|C0426576
+gastrointestinal symptoms|C0426576
+gastrointestinal symptom nos|C0426576
+gi symptoms|C0426576
+symptoms gastrointestinal|C0426576
+change in appetite|C0426587
+appetite change|C0426587
+changes in appetite|C0426587
+altered appetite|C0426587
+stiffness|C0427008
+weakness of leg|C0427068
+monoparesis of lower limb|C0427068
+monoparesis of lower extremity|C0427068
+weakness leg|C0427068
+monoparesis of leg|C0427068
+monoparesis - leg|C0427068
+legs weakness|C0427068
+weakness in leg|C0427068
+leg weakness|C0427068
+involuntary movement symptom|C0427086
+involuntary movements|C0427086
+observation of involuntary movement|C0427086
+movements, involuntary|C0427086
+movement involuntary|C0427086
+involuntary movement|C0427086
+movements involuntary|C0427086
+movement, involuntary|C0427086
+involuntary muscle contractions|C0427086
+severe symptoms|C0436345
+symptom severe|C0436345
+infects|C0439663
+infected|C0439663
+infecting|C0439663
+infect|C0439663
+decreases|C0442797
+decreased|C0442797
+decreasing|C0442797
+decreas|C0442797
+lack of motivation|C0456814
+loss motivation|C0456814
+loss of motivation|C0456814
+lacks initiative|C0456814
+lacking in initiative|C0456814
+lack of initiative|C0456814
+diminished motivation|C0456814
+lacking motivation|C0456814
+blindness|C0456909
+blindness nos|C0456909
+uts - unable to see|C0456909
+vision loss|C0456909
+loss of vision|C0456909
+visual loss, nos|C0456909
+blindness, nos|C0456909
+unable to see|C0456909
+blind vision|C0456909
+cannot see|C0456909
+total vision loss|C0456909
+blind|C0456909
+sputum yellow|C0457096
+yellow sputum|C0457096
+expectoration yellow|C0457096
+green sputum|C0457097
+sputum green|C0457097
+chronic low back pain|C0457949
+chronic lower back pain|C0457949
+lower back pain chronic|C0457949
+clbp - chronic low back pain|C0457949
+back chronic lower pain|C0457949
+back chronic low pain|C0457949
+back pain lower back chronic|C0457949
+cramps pain|C0458254
+cramping pain|C0458254
+pain cramp|C0458254
+cramps pains|C0458254
+cramp pain|C0458254
+cramping pains|C0458254
+pain cramping|C0458254
+psychotic symptom present|C0459435
+psychotic state|C0459435
+psychotic|C0459435
+activity increasing physical|C0474395
+increased motor activity, nos|C0474395
+behavior showing increased motor activity|C0474395
+physical activity, increased|C0474395
+overactivity|C0474395
+behaviour showing increased motor activity|C0474395
+increased activity|C0474395
+localised exfoliation|C0520893
+localized exfoliation|C0520893
+localised desquamation|C0520893
+localized desquamation|C0520893
+peeling|C0520893
+pain localised|C0520962
+localized pain|C0520962
+pain localized|C0520962
+localizing pain|C0520962
+localised pain|C0520962
+pulmonary consolidation|C0521530
+airspace opacification|C0521530
+air-space shadowing|C0521530
+lung consolidation|C0521530
+air space opacification|C0521530
+lung consolidations|C0521530
+consolidation lung|C0521530
+consolidation lungs|C0521530
+consolidation of lung, nos|C0521530
+consolidation|C0521530
+motor dysfunction nos|C0521654
+dysfunction motor|C0521654
+dysfunctions motor|C0521654
+neurologic deficit|C0521654
+motor dysfunction|C0521654
+impairments neurological|C0521654
+motor deficits|C0521654
+neurologic deficit, nos|C0521654
+deficits motor|C0521654
+deficits neurological|C0521654
+motor dysfunction, nos|C0521654
+neurological impairment|C0521654
+central deficits nervous system|C0521654
+neurologic deficits|C0521654
+motor deficit|C0521654
+neurological deficit|C0521654
+deficits neurologic|C0521654
+deficit, neurologic|C0521654
+deficits, neurologic|C0521654
+paralyse|C0522224
+palsied|C0522224
+paralytic syndrome|C0522224
+paralysis, nos|C0522224
+paralyzed|C0522224
+inability to move|C0522224
+palsies|C0522224
+paralysis|C0522224
+paralysis, unspecified|C0522224
+paralyses|C0522224
+plegia|C0522224
+palsy|C0522224
+paralysis nos|C0522224
+plegias|C0522224
+paralysed|C0522224
+pain sinuses|C0522251
+pain sinus|C0522251
+pains sinus|C0522251
+pain in sinuses|C0522251
+sinus pain|C0522251
+nasal sinus pain|C0522251
+sinu pain|C0522251
+chest left pains side|C0541828
+chest left pain side|C0541828
+chest pain left side|C0541828
+chest pain site left_sided|C0541828
+chest pain-l arm|C0541828
+left side chest pain|C0541828
+left sided chest pain|C0541828
+facial swelling|C0542571
+facial puffiness|C0542571
+oedema face|C0542571
+facial edema|C0542571
+edema face|C0542571
+face edematous|C0542571
+edema facial|C0542571
+facial oedema|C0542571
+face edema|C0542571
+oedema of face|C0542571
+edema of face|C0542571
+face oedema|C0542571
+face oedematous|C0542571
+dysopia|C0547030
+disturbances visuals|C0547030
+disturbance visual|C0547030
+visual alteration|C0547030
+visual disturbance nos|C0547030
+unspecified visual disturbance|C0547030
+rndx visual alteration|C0547030
+disturbances visual|C0547030
+visual disturbances|C0547030
+visual disturbance|C0547030
+visual disturbance, nos|C0547030
+visual disturbance, unspecified|C0547030
+non articular rheumatism|C0553642
+nar - non-articular rheumatism|C0553642
+rheumatism, nonarticular|C0553642
+rheumatism that affects muscle or tendon|C0553642
+soft tissue rheumatism|C0553642
+nonarticular rheumatism|C0553642
+myofascial pain|C0553642
+non-articular rheumatism|C0553642
+maceration|C0558143
+maceration of epidermis|C0558143
+skin maceration|C0558143
+maceration of the skin|C0558143
+maceration was seen|C0558143
+macerated skin|C0558143
+eyesight deteriorating|C0558171
+sight deteriorating|C0558171
+deteriorating vision|C0558171
+vision deteriorating|C0558171
+worsening vision|C0558171
+decreased vision|C0558171
+unable to stand|C0560885
+inability to stand|C0560885
+cough persistent|C0562483
+coughs persistent|C0562483
+persistent cough|C0562483
+coughing persistent|C0562483
+difficulty talking|C0564221
+difficulty speaking|C0564221
+mania|C0564408
+manic|C0564408
+manic mood|C0564408
+impulsive character|C0564567
+impulsive|C0564567
+impulsiveness|C0564567
+in left arm pain|C0564820
+pain in left upper limb nos|C0564820
+arms left pain|C0564820
+pain left arm|C0564820
+painful l arm|C0564820
+limb pain left arm|C0564820
+pain in left upper limb|C0564820
+left arm pain|C0564820
+pain in left arm|C0564820
+arm left pains|C0564820
+arm left pain|C0564820
+foot oedema|C0574002
+oedema of foot|C0574002
+foot edema|C0574002
+swelling of feet|C0574002
+swollen foot|C0574002
+edematous feet|C0574002
+swollen feet|C0574002
+swelling of the feet|C0574002
+feet swelling|C0574002
+feet swellings|C0574002
+swelling of foot|C0574002
+edema of foot|C0574002
+pedal edema|C0574002
+foot swelling|C0574002
+oedematous feet|C0574002
+pedal oedema|C0574002
+infusions|C0574032
+infusion, nos|C0574032
+infusion procedures|C0574032
+infusion|C0574032
+infusion procedure|C0574032
+infusion technique|C0574032
+infusion - action|C0574032
+cough increased|C0574067
+increasing frequency of cough|C0574067
+increased coughing|C0574067
+costal pain|C0574068
+bone pain in the rib|C0574068
+rib pain|C0574068
+lower urinary tract symptom|C0574785
+lower urinary tract symptoms|C0574785
+urinary tract symptom lower|C0574785
+luts - lower urinary tract symptoms|C0574785
+vomit contains blood|C0577081
+vomiting blood|C0577081
+blood in vomit - symptom|C0577081
+vomit containing blood|C0577081
+pain of ear structure|C0578044
+ear pain|C0578044
+ear painful|C0578044
+swollen feet/legs|C0581394
+swelling of lower limb|C0581394
+hindlimb swelling|C0581394
+swollen legs|C0581394
+feet legs swollen|C0581394
+lower extremity swollen|C0581394
+leg swollen|C0581394
+swollen feet legs|C0581394
+lower extremity swelling|C0581394
+swollen legs feet|C0581394
+legs swelling|C0581394
+swollen feet leg|C0581394
+legs feet swollen|C0581394
+swelling of legs|C0581394
+leg swelling|C0581394
+swollen leg|C0581394
+swelling of lower extremities|C0581394
+skin pink|C0582067
+skin color pink|C0582067
+pink skin|C0582067
+depression moderate|C0588007
+moderate depression|C0588007
+particles|C0597177
+particle|C0597177
+a very small piece or part|C0597177
+protein receptor|C0597357
+receptor protein|C0597357
+receptors|C0597357
+receptor|C0597357
+proteins receptor|C0597357
+receptor proteins|C0597357
+protein receptors|C0597357
+does talk|C0600116
+talks|C0600116
+does speak|C0600116
+speaks|C0600116
+speak|C0600116
+patient observed to be pale|C0678215
+body pale|C0678215
+pale - symptom|C0678215
+pallor|C0678215
+strategies|C0679199
+strategy|C0679199
+foggy mind|C0683369
+clouding of sensorium|C0683369
+dazed|C0683369
+muddled|C0683369
+clouding of consciousness|C0683369
+dazed state|C0683369
+confusion|C0683369
+consciousness clouding|C0683369
+dullness of senses|C0683369
+clouded consciousness|C0683369
+confused|C0683369
+options treatment|C0683525
+options treatments|C0683525
+treatment options|C0683525
+treatment option|C0683525
+options|C0683525
+coughs|C0687152
+does cough|C0687152
+anxiety attacks|C0700031
+attack anxiety|C0700031
+anxiety attack|C0700031
+anxiety attacking|C0700031
+dyssomnia|C0700201
+dyssomnia, nos|C0700201
+sleep problem|C0700201
+dyssomnia nos|C0700201
+sleep disturbance|C0700201
+sleep problems|C0700201
+dyssomnias|C0700201
+hypoxemia|C0700292
+o2 saturation decreased|C0700292
+low blood oxygen level|C0700292
+hypoxaemia|C0700292
+arterial hypoxemia|C0700292
+blood oxygen decreased|C0700292
+hypoxemias|C0700292
+arterial hypoxaemia|C0700292
+blood oxygen level below normal|C0700292
+chronic post traumatic stress disorder|C0730525
+chronic posttraumatic stress disorder|C0730525
+chronic post-traumatic stress disorder|C0730525
+chronic ptsd|C0730525
+post-traumatic stress disorder, chronic|C0730525
+back pain chronic|C0740418
+back chronic pain|C0740418
+back chronic pains|C0740418
+chronic back pain|C0740418
+elevated d-dimers|C0742969
+d dimer elevated|C0742969
+d-dimer above reference range|C0742969
+elevated circulating d-dimer concentration|C0742969
+elevated d-dimer|C0742969
+elevated fibrin degradation fragment concentration|C0742969
+cervical pain chronic|C0746815
+neck pain chronic|C0746815
+neck chronic pain|C0746815
+chronic cervical pain|C0746815
+chronic neck pain|C0746815
+uncontrolled pain|C0747149
+pain uncontrolled|C0747149
+respiratory distress syndrome, acute|C0748355
+ards, human|C0748355
+human ards|C0748355
+acute respiratory distress syndrome|C0748355
+respiratory distress acute|C0748355
+acute respiratory distress|C0748355
+acute distress respiratory|C0748355
+primary cough headache|C0751185
+benign cough headache|C0751185
+coughing headache|C0751185
+headaches, benign cough|C0751185
+headache, primary cough|C0751185
+cough headaches|C0751185
+cough headache, benign|C0751185
+headache, cough|C0751185
+benign cough headaches|C0751185
+headache cough|C0751185
+cough headache syndrome|C0751185
+valsalva-maneuver headache|C0751185
+cough headache|C0751185
+headache, benign cough|C0751185
+cough headaches, benign|C0751185
+chronic insomnia|C0751249
+insomnia chronic|C0751249
+insomnia, chronic|C0751249
+sleep disorder insomnia chronic|C0751249
+phonophobias|C0751466
+phonophobia|C0751466
+fear of loud sounds|C0751466
+feeling jittery|C0849963
+feeling nervous|C0849963
+nervousness|C0849963
+feelings nervous|C0849963
+non productive cough|C0850149
+dry coughing|C0850149
+cough dry|C0850149
+nonproductive cough|C0850149
+unproductive cough|C0850149
+coughing dry|C0850149
+non-productive cough|C0850149
+dry cough|C0850149
+coughs non productive|C0850149
+cough nonproductive|C0850149
+cough, nonproductive|C0850149
+cough, dry|C0850149
+cough non productive|C0850149
+coughs dry|C0850149
+cough unproductive|C0850149
+disorders, sleep|C0851578
+sleep-wake disorder|C0851578
+sleep disorders and disturbances|C0851578
+disorder sleep|C0851578
+parasomnia|C0851578
+disorder, sleep|C0851578
+sleeping problems|C0851578
+sleep disturbance|C0851578
+sleep dysfunction|C0851578
+sleep disorder, nos|C0851578
+sleep disorder, unspecified|C0851578
+sleep problem|C0851578
+sleep disorder|C0851578
+sleeping disorders|C0851578
+sleep disorder nos|C0851578
+sleep disorders|C0851578
+sleep disturbances|C0851578
+dizzy spell|C0857087
+dizzy spells|C0857087
+spells dizzy|C0857087
+pediatric|C0876889
+pediatric brand name|C0876889
+insomnia, nos|C0917801
+insomnia, unspecified|C0917801
+insomnia|C0917801
+insomnia disorder|C0917801
+insomnia nos|C0917801
+insomnia disorders|C0917801
+disturbances of sleep/insomnia|C0917801
+sleep disorder insomnia|C0917801
+difficulty staying or falling asleep|C0917801
+sleeplessness|C0917801
+insomnias|C0917801
+vaccinated|C1116171
+vaccinate|C1116171
+vaccinating|C1116171
+vaccinated at|C1116171
+dripping nose|C1260880
+nasal discharge as symptom|C1260880
+snuffles|C1260880
+nose discharge|C1260880
+nasal catarrh|C1260880
+rhinorrhoea|C1260880
+drip nasal|C1260880
+snuffling|C1260880
+nose, runny|C1260880
+nose dripping|C1260880
+nose drip|C1260880
+rhinorrhea|C1260880
+discharge nasal|C1260880
+nasal drip|C1260880
+excessive noise from nasal passage|C1260880
+drips nasal|C1260880
+runny nose|C1260880
+nose running|C1260880
+nose run|C1260880
+nasal discharge rhinorrhea|C1260880
+dripping nasal|C1260880
+discharge from nose|C1260880
+nose runny|C1260880
+discharge nose|C1260880
+nasal discharge present|C1260880
+increased nasal secretion|C1260880
+drips nose|C1260880
+nasal discharge|C1260880
+nose runs|C1260880
+running nose|C1260880
+weight reduction|C1262477
+losses, weight|C1262477
+decreases weight|C1262477
+weight reductions|C1262477
+loses weight|C1262477
+decrease weight|C1262477
+losing weight|C1262477
+weight loss, progressive|C1262477
+lose weight|C1262477
+decreased body weight|C1262477
+weight loss on exam|C1262477
+lost weight|C1262477
+losing wt|C1262477
+wt loss|C1262477
+decreased weight|C1262477
+weightloss|C1262477
+weight decreased|C1262477
+reduction weight|C1262477
+loss wt|C1262477
+weight decreasing|C1262477
+loss weight|C1262477
+weight decrease|C1262477
+loss, weight|C1262477
+reductions, weight|C1262477
+weight losses|C1262477
+weight loss|C1262477
+progressive weight loss|C1262477
+reduction, weight|C1262477
+loss of weight|C1262477
+neurocognitive disorder, mild|C1270972
+cognitive disorder mild|C1270972
+impairment, mild cognitive|C1270972
+cognitive impairments, mild|C1270972
+mild neurocognitive disorders|C1270972
+disorder, mild neurocognitive|C1270972
+neurocognitive disorders, mild|C1270972
+cognitive impairment, mild|C1270972
+mild neurocognitive disorder|C1270972
+impairments, mild cognitive|C1270972
+mild cognitive disorder|C1270972
+mild cognitive impairment|C1270972
+mild cognitive impairments|C1270972
+disorders, mild neurocognitive|C1270972
+fever cough|C1277295
+coughs fever|C1277295
+with cough fever|C1277295
+cough with fever|C1277295
+coughing fever|C1277295
+cough fever|C1277295
+intermittent pain|C1282310
+pain intermittent|C1282310
+acute encephalopathy|C1306587
+encephalopathy acute|C1306587
+acute encephalopathy, nos|C1306587
+encephalopathy, acute|C1306587
+hand antiseptics|C1330330
+hand disinfectant|C1330330
+hand sanitizer|C1330330
+antiseptic, hand|C1330330
+hand sanitizers|C1330330
+hand disinfectants|C1330330
+hand antiseptic|C1330330
+disinfectant, hand|C1330330
+sanitizer, hand|C1330330
+indicated|C1444656
+ruled in|C1446409
+positive|C1446409
+positive for|C1446409
+rulings|C1446409
+ruling|C1446409
+ruled|C1446409
+paranoid psychosis nos|C1456784
+paranoid disorder, nos|C1456784
+paranoid disorders|C1456784
+psychoses, paranoid|C1456784
+psychotic paranoia|C1456784
+psychosis paranoid|C1456784
+paranoid psychosis|C1456784
+paranoia|C1456784
+paranoid disorder nos|C1456784
+paranoid disorder|C1456784
+paranoias|C1456784
+paranoia, nos|C1456784
+disorders, paranoid|C1456784
+disorder, paranoid|C1456784
+paranoid psychoses|C1456784
+symptoms|C1457887
+symptom|C1457887
+general manifestation of disorders|C1457887
+symptom, nos|C1457887
+imaging of thorax|C1531652
+chest imaging|C1531652
+diseases, chronic kidney|C1561643
+chronic diseases renal|C1561643
+chronic kidney disease, unspecified|C1561643
+loss of renal function|C1561643
+chronic kidney diseases|C1561643
+disease, chronic kidney|C1561643
+chronic renal failure|C1561643
+renal disease chronic|C1561643
+diseases, chronic renal|C1561643
+disease, chronic renal|C1561643
+chronic renal insufficiency|C1561643
+ckd - chronic kidney disease|C1561643
+renal diseases, chronic|C1561643
+chronic renal disease|C1561643
+kidney disease, chronic|C1561643
+renal disease, chronic|C1561643
+chronic kidney disease|C1561643
+chronic renal diseases|C1561643
+kidney diseases, chronic|C1561643
+chronic disease renal|C1561643
+depression|C1579931
+depressed - symptom|C1579931
+miserable|C1579931
+atlizumab|C1609165
+tocilizumab|C1609165
+tocilizumab-containing product|C1609165
+pandemics|C1615608
+pandemic disease|C1615608
+pandemic disorder|C1615608
+pandemic|C1615608
+balancing - difficulty|C1744587
+balance disturbances|C1744587
+decreased balance|C1744587
+balance difficulty|C1744587
+balance difficulties|C1744587
+difficulty balancing|C1744587
+invasive mechanical ventilation|C1868981
+invasive mechanical ventilation nos|C1868981
+chronic migraine|C1960870
+transformed migraine|C1960870
+inhibitor|C1999216
+stress associated with serious illness|C2020635
+serious illness|C2020635
+recent emotional stress from a serious illness|C2020635
+pain in left hand|C2032351
+left hand pain|C2032351
+pain in left hand only|C2032351
+limb pain left hand|C2032351
+pain of left hand|C2032351
+pain in right hand only|C2032420
+pain in right hand|C2032420
+limb pain right hand|C2032420
+right hand pain|C2032420
+pain in the left foot|C2141243
+pain in left foot|C2141243
+left foot pain|C2141243
+limb pain left foot|C2141243
+pain in left hip|C2141922
+left hip pain|C2141922
+left hip joint pain|C2141922
+pain of left hip joint|C2141922
+left wrist pain|C2167935
+pain in left wrist|C2167935
+pain of left wrist|C2167935
+earache, right ear|C2199592
+pain in right ear|C2199592
+earache of right ear|C2199592
+otalgia, right ear|C2199592
+right ear pain|C2199592
+earache in right ear|C2199592
+earache in the right ear|C2199592
+otalgia of right ear|C2199592
+right earache|C2199592
+daytime somnolences|C2219848
+somnolence, daytime|C2219848
+daytime somnolence|C2219848
+daytime sleepinesses|C2219848
+daytime sleepiness|C2219848
+excessive sleepiness during day|C2219848
+sleepiness daytime|C2219848
+sleepiness, daytime|C2219848
+bilateral knee pain|C2220048
+pain of bilateral knee joints|C2220048
+bilateral knee joint pain|C2220048
+gasping|C2315245
+agonal respiration|C2315245
+agonal breathing|C2315245
+agonal respirations|C2315245
+agonal breathing was observed|C2315245
+unintentional weight loss|C2363736
+weight loss unintentional|C2363736
+involuntary weight loss|C2363736
+impaired taste sensation|C2364111
+loss of sense taste|C2364111
+taste absent|C2364111
+unable to taste|C2364111
+gustatory anesthesia|C2364111
+loss of taste sense|C2364111
+absent sense of taste|C2364111
+loss of taste|C2364111
+loss taste|C2364111
+gustatory anaesthesia|C2364111
+ageusia|C2364111
+lost taste|C2364111
+ageustia|C2364111
+absence of sense of taste|C2364111
+taste loss|C2364111
+sensory discomfort|C2364135
+body discomfort|C2364135
+discomforts|C2364135
+discomfort|C2364135
+discomfort nos|C2364135
+discomfort, nos|C2364135
+adjunctive|C2825951
+adjunctive orthodontic procedure|C2825951
+watering eyes|C3257803
+eyes tearing|C3257803
+tearing eye|C3257803
+watering eye|C3257803
+watery eye|C3257803
+tearing eyes|C3257803
+eyes watering|C3257803
+tearing of the eyes|C3257803
+teary eyes|C3257803
+watery eyes|C3257803
+other symptoms|C3257980
+hernias, hiatal|C3489393
+esophageal hiatal hernia|C3489393
+esophageal hiatus hernia|C3489393
+stomach hernia|C3489393
+diaphragmatic/hiatus hernia|C3489393
+hiatus hernia|C3489393
+hernias, hiatus|C3489393
+hiatus hernia syndrome|C3489393
+hiatus hernias|C3489393
+hh - hiatus hernia|C3489393
+oesophageal hiatus hernia|C3489393
+hernia, hiatal|C3489393
+hernia, diaphragmatic|C3489393
+h hernia|C3489393
+hernia, hiatus|C3489393
+hiatal hernia|C3489393
+hiatal hernias|C3489393
+oesophageal hiatal hernia|C3489393
+bergmann's syndrome|C3489393
+hernia hiatal|C3489393
+loss of vision|C3665386
+cannot see properly|C3665386
+vision abnormal nos|C3665386
+abnormal vision|C3665386
+vision, abnormal|C3665386
+vision loss|C3665386
+eyesight problems|C3665386
+problems with eyesight|C3665386
+subnormal vision|C3665386
+problem seeing|C3665386
+abnormal vision nos|C3665386
+problem sight|C3665386
+vision problem|C3665386
+vision abnormal|C3665386
+visual problems|C3665386
+visual loss|C3665386
+partial sight|C3665386
+can't see properly|C3665386
+inadequate oral intake|C3714435
+several days|C3845714
+cutaneous erosion|C3887524
+erosion skin|C3887524
+erosions skin|C3887524
+skin breakdown|C3887524
+erosion was seen|C3887524
+erosion of skin|C3887524
+skin erosion|C3887524
+skin erosions|C3887524
+erosion|C3887524
+broken skin|C4048181
+rndx skin integrity impairment|C4048181
+skin broken|C4048181
+skin integrity impairment|C4048181
+skin breakdown|C4048181
+impaired skin integrity|C4048181
+breakdown skin|C4048181
+depression minimal|C4305327
+minimal depression|C4305327
+at home|C4534363
+increased risk|C4699158
+inv-remdesivir|C4726677
+remdesivir|C4726677
+remdesivir-containing product|C4726677
+antiviral remdesivir|C4726677
+remdesivirum|C4726677
+remdsivir|C4726677
+severe disease|C4740692
+tingling pain|C5192202
+covid-19 virus disease|C5203670
+coronavirus 2019-ncov infection|C5203670
+2019-ncov diseases|C5203670
+coronavirus disease 2019|C5203670
+sars-cov-2 infection|C5203670
+coronavirus disease 19|C5203670
+covid19|C5203670
+severe acute respiratory syndrome coronavirus 2 infection|C5203670
+disease, 2019-ncov|C5203670
+covid-19 virus infection|C5203670
+disease 2019, coronavirus|C5203670
+hcov-19 infection|C5203670
+covid-19 virus diseases|C5203670
+2019 novel coronavirus infection|C5203670
+disease, covid-19 virus|C5203670
+sars cov 2 infection|C5203670
+virus infection, covid-19|C5203670
+sars-cov-2 infections|C5203670
+covid 19|C5203670
+disease caused by 2019 novel coronavirus|C5203670
+disease caused by severe acute respiratory syndrome coronavirus 2|C5203670
+2019-ncov infection|C5203670
+sars2 infection|C5203670
+coronavirus 2019-ncov|C5203670
+infection, 2019-ncov|C5203670
+human coronavirus 2019 infection|C5203670
+infection, covid-19 virus|C5203670
+covid-19 virus infections|C5203670
+covid-19 infection|C5203670
+covid 19 virus disease|C5203670
+2019-ncov disease|C5203670
+sars coronavirus 2 infection|C5203670
+2019-ncov infections|C5203670
+virus disease, covid-19|C5203670
+infection, sars-cov-2|C5203670
+sars-cov-2 disease|C5203670
+covid-19|C5203670
+covid 19 virus infection|C5203670
+sars-2 infection|C5203670
+2019 novel coronavirus disease|C5203670
+2019 ncov disease|C5203670
+coronavirus disease-19|C5203670
+sars-cov2 disease|C5203670
+2019 ncov infection|C5203670
+sars-cov2 infection|C5203670
+disease caused by 2019-ncov|C5203670
+administration of vaccine product containing only severe acute respiratory syndrome coronavirus 2 antigen|C5203672
+2019 novel coronavirus immunisation|C5203672
+administration of vaccine product against severe acute respiratory syndrome coronavirus 2|C5203672
+sars-cov-2 antigen immunization|C5203672
+covid-19 antigen vaccination|C5203672
+covid-19 antigen immunization|C5203672
+2019-ncov vaccination|C5203672
+2019-ncov antigen immunisation|C5203672
+covid-19 immunisation|C5203672
+2019 novel coronavirus immunization|C5203672
+covid-19 immunization|C5203672
+covid-19 vaccination|C5203672
+covid-19 antigen immunisation|C5203672
+administration of sars-cov-2 antigen vaccine|C5203672
+sars-cov-2 immunization|C5203672
+2019-ncov immunization|C5203672
+sars-cov-2 antigen vaccination|C5203672
+severe acute respiratory syndrome coronavirus 2 vaccination|C5203672
+2019-ncov antigen vaccination|C5203672
+sars-cov-2 immunisation|C5203672
+sars-cov-2 vaccination|C5203672
+severe acute respiratory syndrome coronavirus 2 antigen vaccination|C5203672
+2019 novel coronavirus vaccination|C5203672
+administration of sars-cov-2 vaccine|C5203672
+2019 novel coronavirus antigen vaccination|C5203672
+2019-ncov antigen immunization|C5203672
+2019 novel coronavirus antigen immunization|C5203672
+2019 novel coronavirus antigen immunisation|C5203672
+2019-ncov immunisation|C5203672
+oedema of both lower limbs|C5230913
+bilateral lower extremity oedema|C5230913
+edema of bilateral lower extremities|C5230913
+edema of bilateral lower limbs|C5230913
+oedema of bilateral lower extremities|C5230913
+oedema of both lower extremities|C5230913
+bilateral lower extremity edema|C5230913
+edema of both lower limbs|C5230913
+bilateral lower limb oedema|C5230913
+oedema of bilateral lower limbs|C5230913
+bilateral lower limb edema|C5230913
+covid-19 drug treatment|C5244048
+covid-19 treatment|C5244048
+coronavirus disease 2019 drug treatment|C5244048
+coronavirus disease-19 drug treatment|C5244048
+treatment of covid-19 virus infection|C5244048
+coronavirus disease-19 vaccine|C5387588
+coronavirus disease-19 vaccines|C5387588
+sars2 vaccine|C5387588
+covid-19 virus vaccine|C5387588
+sars-cov-2 vaccines|C5387588
+virus vaccine, covid19|C5387588
+virus vaccine, covid-19|C5387588
+vaccine, covid 19|C5387588
+covid-19 virus vaccines|C5387588
+coronavirus disease 19 vaccines|C5387588
+vaccine, covid-19|C5387588
+sars-cov-2 vaccine|C5387588
+sars2 vaccines|C5387588
+virus vaccines, covid19|C5387588
+coronavirus disease 2019 virus vaccines|C5387588
+covid19 virus vaccines|C5387588
+2019-ncov vaccines|C5387588
+coronavirus 2019-ncov vaccine|C5387588
+coronavirus disease 2019 virus vaccine|C5387588
+vaccine, coronavirus disease-19|C5387588
+2019-ncov vaccine|C5387588
+covid-19 vaccine|C5387588
+vaccine, 2019-ncov|C5387588
+coronavirus disease 2019 vaccines|C5387588
+coronavirus disease 2019 vaccine|C5387588
+virus vaccines, covid-19|C5387588
+covid-19 vaccines|C5387588
+coronavirus disease 19 vaccine|C5387588
+covid19 vaccine|C5387588
+2019 ncov vaccines|C5387588
+vaccines, covid-19 virus|C5387588
+vaccines, sars-cov-2|C5387588
+vaccines, sars2|C5387588
+sars coronavirus 2 vaccines|C5387588
+covid19 vaccines|C5387588
+vaccine, covid-19 virus|C5387588
+vaccine, covid19|C5387588
+vaccine, covid19 virus|C5387588
+vaccines viral coronavirus 2019-ncov|C5387588
+covid 19 vaccine|C5387588
+covid 19 vaccines|C5387588
+vaccine, sars2|C5387588
+vaccines, covid19|C5387588
+vaccine, sars-cov-2|C5387588
+2019 novel coronavirus vaccines|C5387588
+sars cov 2 vaccine|C5387588
+covid19 virus vaccine|C5387588
+sars cov 2 vaccines|C5387588
+vaccines, coronavirus disease-19|C5387588
+2019 novel coronavirus vaccine|C5387588
+vaccines, 2019-ncov|C5387588
+covid 19 virus vaccine|C5387588
+vaccines, covid19 virus|C5387588
+covid 19 virus vaccines|C5387588
+vaccines, covid-19|C5387588
+2019 ncov vaccine|C5387588
+covid 19 pandemic|C5392141
+covid-19 pandemic|C5392141
+pandemic, covid-19|C5392141
+covid-19 pandemics|C5392141
+n95 face mask|C5392166
+n-95 masks|C5392166
+mask, n95|C5392166
+n95 respirator|C5392166
+mask, n95 face|C5392166
+n95 face masks|C5392166
+n95 masks|C5392166
+n95 respirators|C5392166
+face mask, n95|C5392166
+n-95 mask|C5392166
+respirator, n95|C5392166
+n95 mask|C5392166
+moderna covid-19 vaccine|C5424056
+casirivimab-imdevimab|C5433281
+casirivimab / imdevimab|C5433281
+casirivimab/imdevimab|C5433281
+casirivimab and imdevimab drug combination|C5433281
+casirivimab plus imdevimab|C5433281
+casirivimab, imdevimab drug combination|C5433281
+casirivimab and imdevimab|C5433281
+casirivimab- and imdevimab-containing product|C5433281
+post-acute sequelae of sars-cov-2 infection|C5433293
+post-acute covid19 syndrome|C5433293
+post-acute covid-19 syndrome|C5433293
+post-acute covid syndrome|C5433293
+long-covid|C5433293
+long covid|C5433293
+chronic covid syndrome|C5433293
+long hauler covid|C5433293
+long haul covid|C5433293
+long-haul covid|C5433293
+sotrovimab-containing product|C5433947
+biologicals sotrovimab|C5433947
+sotrovimab|C5433947
+molnupiravir|C5435024
+covid-19 vaccine, vector-nr, rs-ad26, pf, 0.5 ml|C5439898
+janssen covid-19 vaccine pf, intramuscular suspension|C5439898
+janssen covid-19 vaccine|C5439898
+pain of left knee region|C5442019
+left knee pain|C5442019
+pain of left knee|C5442019
+pain in left knee|C5442019
